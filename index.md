@@ -10,7 +10,7 @@ title: Home
 Uncle Charlie riding into the sunset on our only 100 mile day (2012-Tour)
 {: style="width:350px; margin: auto; text-align: center;"}
 
-[sunset]:/resources/img/sunset.jpg 
+[sunset]:/resources/img/Sunset.jpg 
 
 {::comment}
 {: width="300px" .center-image }
