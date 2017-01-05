@@ -92,15 +92,10 @@ All the slides will are <a href="http://t.co/SDCgwxkfgi" target="_blank">here</a
 The list of projects is quite long, now, because of all that I learned at OpenCon. I will list just a few of them in no particular order:
 
 1. Create a number of presentations to give to different groups around OrSt and elsewhere.
-
 2. Promote "Open" in Oregon (Start student group or something, yet to be determined)
-
 3. Work with <a href="http://blogs.ch.cam.ac.uk/pmr/" target="_blank">Peter Murray-Rust</a> on <a href="http://contentmine.org/#getinvolved" target="_blank">Data-mining</a> Powder diffraction Data. (and maybe some other Crystallography projects)
-
 4. #myopenstory videos
-
 5. Have the Open Talk
-
 6. Follow up with Congress!!
 
 If you are able to help in any way or have questions please don't hesitate to contact me.
