@@ -7,7 +7,7 @@ title: Home
 {: style="text-align: center;"}
   <div class="tags-expo-list" style="text-align: center;">
     {% for tag in site.categories %}
-    <a href="/blog/categories/#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    <a href="/blog/categories#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
     {% endfor %}
   </div>
   <br>
