@@ -44,7 +44,7 @@ nav:
     - { Categories: '/blog/categories' }
     - { Tags: '/blog/tags' }
   About:          
-    - '/about/'
+    - '/about'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags'
