@@ -49,8 +49,11 @@ This uses a fairly simple python program I developed plus some OS configuration.
 3. Log into the new account and right click on the start menu and click options
    * Remove all unneeded features - ex. control panel
 4. Log out and back into the admin account - change the new user to a limited account
-5. Copy compiled Program use tracker app [PUTAPP](https://github.com/openafox/put_app){: target="_blank"}
-6. Follow instructions in the Readme to setup
+5. Move all user data into the shared directory and make sure to give the new user permissions
+   * May need to uncheck *use simple file sharing* (Tools -> Folder Options -> View -> Advanced)
+   * Then under *folder properties -> security* add the new user name and give full permissions
+6. Copy compiled Program use tracker app [PUTAPP](https://github.com/openafox/put_app){: target="_blank"}
+7. Follow instructions in the Readme to setup
 
 ### Getting XRD Commander and Video to work properly on the user account
 
