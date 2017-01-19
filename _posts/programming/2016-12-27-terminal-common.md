@@ -14,8 +14,8 @@ filpath
 
   ~~~bash
   cp [options] source destination
-  ~~~ 
-  Options: 
+  ~~~
+  Options:
   -f = force,
   -R = recursive,
   -v = verbose
@@ -35,19 +35,19 @@ filpath
   ~~~
 
   Value: 3 digit code for owner, group, all
-  
+
   7 = no restrictions, 6 = read write, 5 = read execute, 4 = read, 0 = no access
 
 * Move/change name of file
-  
+
   ~~~bash
   mv [options] source destination
   ~~~
-  
+
   Options: -f = force, -v = verbose
 
 * Find a file or text in a file
-  
+
   ~~~bash
   grep [options] search_pattern [file_pattern]
   ~~~
@@ -57,12 +57,12 @@ filpath
 
   file_pattern = a file or directory or file pattern ex. \*.html
 
-  Options: 
+  Options:
   -i = ignore case,
   -r = recursive,
   -l = just file names,
   -n = show line number
-  
+
   +many more [this site][grep] seems to have a pretty complete list with good descriptions
 
   As for Regular expressions there are lots of great resources out there. I may put a post together with the important to me stuff at some point but here are some resources:
@@ -77,4 +77,4 @@ filpath
 {: target="_blank"}
 [regex2]:https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
 {: target="_blank"}
-  
+

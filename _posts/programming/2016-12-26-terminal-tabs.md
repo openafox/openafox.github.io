@@ -6,7 +6,7 @@ category: Programming
 
 excerpt: Set up keyboard shortcuts to change tabs in terminal.
 ---
-	
+
 1. Open System Preferences => Keyboard => Shortcuts
 2. Click on "Application Shortcuts"
 3. Click the "+" to add a program
