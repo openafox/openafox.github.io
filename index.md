@@ -12,6 +12,8 @@ title: Home
   </div>
   <br>
 <figure style="width:60%; margin: auto; text-align: center;">
-  <img src="/resources/img/Sunset.jpg" alt="Uncle Charlie riding into the sunset">
-  <figcaption>Uncle Charlie riding into the sunset on our only 100 mile day <a herf="http://foxbiketour.blogspot.com/" target="_blank">(2012-Tour)</a></figcaption>
+  <img src="/resources/img/Sunset.jpg" alt="Uncle Charlie riding into the sunset" />
+  <figcaption>
+  Uncle Charlie riding into the sunset on our only 100 mile day <a href="http://foxbiketour.blogspot.com/" target="_blank">(2012-Tour)</a>
+  </figcaption>
 </figure>
