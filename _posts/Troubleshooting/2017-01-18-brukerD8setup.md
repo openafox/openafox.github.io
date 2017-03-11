@@ -22,7 +22,7 @@ Here is the list of what worked (I am not including the numerous steps I took th
 1. Install Hardware: CronosPlus PCI Board and License Dongle
   * Restart computer and cancel prompts to install drivers
 2. Install Bruker software (from CDs: *DIFFRACplus Basic Measurement and Evaluation*)
-  * Also on the *Firmware & Software Tools* CD copy the D8 Tools program into the DIFFPLUS folder
+  * Also on the *Firmware & Software Tools* CD copy the D8 Tools program
 3. Install dongle driver (On the *Measurement* CD)
 4. Setup static IP: Does not matter which network adapter just as long as the instrument is connected to it
   * 192.168.21.1
@@ -33,7 +33,7 @@ Here is the list of what worked (I am not including the numerous steps I took th
 6. Open *XRD Config*
   * Load your most recent conf file (ex. [diff_in1.cnf](https://drive.google.com/open?id=0B9fsrnoZMTD_dFd6eFZWLWctdzg))
   * In *XRD Config* click the download CNF button (It should work without a hitch if the system is on)
-7. Copy the D8Tools back up [COMPORT.CFN](https://drive.google.com/open?id=0B9fsrnoZMTD_LUdGNzRUb3lDbG8) file into the D8Tools folder (replace what is there)
+7. Copy the D8Tools back up [Folder](https://drive.google.com/open?id=0B9fsrnoZMTD_T0toeDVqZjdxRmM) into the DIFFPLUS folder
 8. Start D8Tools and make sure you can connect to the system
 9. Install [Video Laser Software](https://drive.google.com/open?id=0B9fsrnoZMTD_WVRZWTBWS2RSSVU)
   * Open Video_1.5/ReadMe.TXT and follow the instructions (For our system options are - CronosPlus, color video, and 4Mb)
