@@ -8,7 +8,7 @@ excerpt: My First days in Japan
 
 ---
 
-![overpasses](https://drive.google.comuc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:right'}){: style='width:100%'}
+![overpasses](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:right'}
 
 ![view](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:right'}
 
