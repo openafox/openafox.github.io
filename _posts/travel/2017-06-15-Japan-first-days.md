@@ -8,11 +8,10 @@ excerpt: My First days in Japan
 
 ---
 
-![overpasses](https://goo.gl/photos/irD4ekHEp4x1ngHu7){: style='width:50%; float:right'}
+![overpasses](https://drive.google.comuc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:right'}){: style='width:100%'}
 
 ![view](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:right'}
 
-![view](https://drive.google.com/file/d/1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw/view?usp=drivesdk){: style='width:50%; float:right'}
 ## First days in Japan
 pushing this as a test. I will actually blog here soon
  [template][tp]
