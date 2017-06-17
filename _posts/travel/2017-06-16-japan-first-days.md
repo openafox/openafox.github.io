@@ -17,7 +17,7 @@ Getting out of the airport airport was easy. I just followed the signs with a ba
 
 Once in the airport lobby there was a crew with cameras interviewing any gaijin (foreigner) they could and they asked where you were from, why you were in Japan and the some followups. So maybe I was that hairy white guy on Japanese TV...
 
-I then got lucky and found another fellow from the [JSPS](/travel/JSPS)  program (Sam from Cali, supper rad person) and she knew where we needed to be to catch the bus to our hotel. Once we got to the spot we started meeting lots of other fellows from all over the US (including Tyler who I was supposed to meet up with a month ago as he is also from OSU but I was a jerk and spaced on our meeting). Eventually we got on the bus to the hotel.
+I then got lucky and found another fellow from the [JSPS](/travel/jsps)  program (Sam from Cali, supper rad person) and she knew where we needed to be to catch the bus to our hotel. Once we got to the spot we started meeting lots of other fellows from all over the US (including Tyler who I was supposed to meet up with a month ago as he is also from OSU but I was a jerk and spaced on our meeting). Eventually we got on the bus to the hotel.
 
 ## The first night
 
