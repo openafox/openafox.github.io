@@ -9,7 +9,7 @@ excerpt: My First days in Japan
 ---
 
 
-#Arriving in Narita
+## Arriving in Narita
 
 After an 11 hour flight my legs were ready for a stretch. I was lucky to get a 2 seat row to myself so I could spread out but it only helps so much. On the plane I had brought plenty to do but I did watch one Japanese comedy movie (sadly I don't remember the name but it was about a news caster that ends up being requested by the assailant of a hostage takeover at a cafe), it was enjoyable and maybe helped a little to get my head in the right place.
 
@@ -19,7 +19,7 @@ Once in the airport lobby there was a crew with cameras interviewing any gaijin 
 
 I then got lucky and found another fellow from the [JSPS](/travel/JSPS)  program (Sam from Cali, supper rad person) and she knew where we needed to be to catch the bus to our hotel. Once we got to the spot we started meeting lots of other fellows from all over the US (including Tyler who I was supposed to meet up with a month ago as he is also from OSU but I was a jerk and spaced on our meeting). Eventually we got on the bus to the hotel.
 
-#The first night
+## The first night
 
 I and many other fellows were surprised when all we were given at check in was times for dinner, breakfast, and leaving. I guess they figured we would all just want to relax and go to bed. This hotel was not our orientation destination but rather just a hold over as Sokendai was over 2 hrs away. During check in I met some folks from the UK, Germany, Canada, France, and Sweden. 
 
@@ -29,14 +29,14 @@ We found another place but they didn't have room for us. Luckily another place r
 
 Sumimasen (sorry, excuse me - most important word to know) that there aren't any pics my brain was not working yet.
 
-#On to Sokendai
+## On to Sokendai
 
 After breakfast (I'll talk food at some point) we filled 3 busses (there are about 115 fellows, 54 from the US) and got on the road. After and hour and a half  going through some beautiful country south of Tokyo we stopped at a small port island outside of Yokohama for a break. Here I was blown away by the civil engineering and flowers at a truck stop.
-![overpasses](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:100%'} After 20 min we continued on and soon made it to Sokendai.
+![overpasses](https://drive.google.com/uc?id=1ohl8r5eTZ79ZcbdcGh1mxFfUOPeWJzQUZA){: style='width:100%'} After 20 min we continued on and soon made it to Sokendai.
 
-#Shonan village center - Sokendai
+## Shonan village center - Sokendai
 
-![view](https://drive.google.com/uc?id=1ohl8r5eTZ79ZcbdcGh1mxFfUOPeWJzQUZA){: style='width:50%; float:left'}
+![view](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:left'}
 ![view Fuji](https://drive.google.com/uc?id=1bIIQlqMudGJHyiri9ZbAChiG4iSsTOT6BQ){: style='width:50%; float:right'} 
 ![view sunset](https://drive.google.com/uc?id=1CjRpqbPOJDExqrRof1SkfZw1tfh0jCyfKw){: style='width:50%; float:right'}
 The conference center is really beautiful with a view of Fuji-san (sadly it's been behind the clouds) and we had a really good introduction to the program and during check-in finally got more info about our week. Intensive language classes, cultural orientation, Trip to the Great Buddha and Hachiman Shinto shrine in Kamakura, and home stay. 
