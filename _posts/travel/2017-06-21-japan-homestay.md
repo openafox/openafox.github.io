@@ -27,7 +27,7 @@ There are a number things I immediately noticed and very much appreciate or have
 3. The top of the toilet bowl is used as a sink. The tank fill water is run threw a faucet that turns on when you flush.
 4. Bidet. Why don't we use these in the US? They really​ are nice - heated seat, easier/ better cleaning of yourself...
 5. Shower room. Look it up. I may post on this later but you can explore for yourself for now.
-![shoe](https://drive.google.com/uc?id=1F-o-uKt3nOxXzrGRqwZ0fJflhZ1PDaCxKA){: style='width:50%; float:right'}
+![shoe](https://drive.google.com/uc?id=1F-o-uKt3nOxXzrGRqwZ0fJflhZ1PDaCxKA){: style='width:50%; float:left'}
 ![toilet](https://drive.google.com/uc?id=1ts7sJtk46EDJ5SoLmTZQFTk-sR7ueVIB2g){: style='width:50%; float:right'}
 
 
@@ -35,7 +35,7 @@ There are a number things I immediately noticed and very much appreciate or have
 
 After breakfast we hung out and then went and met Kaoru-san's mother and saw her younger sisters jewelry workshop. Her parents and sister live next door. Then we went and saw the community garden just down the street. They grow onions, garlic, ginger, tomatoes, sweet potatoes, eggplant, green pepper, shiso (mint/basil like) and more. There l met Kaoru-san's father he is a great gardener.
 
-At noon Kino-chan had badminton practice. We dropped her off and headed to the [art museum](http://www.moma.pref.kanagawa.jp/en/){: target='_blank'} where Kaoru-san's​ sister works. No pictures were allowed inside but the main exhibit was and incredible woodcarving artist named [Bikky](http://www.shift.jp.org/en/archives/2006/09/bikky_sunazawa.html){: target='_blank'}. I really appreciated his work. Outside the museum you could see the ocean and Jin-papa pointed out one spot he likes to fish.
+At noon Kino-chan had badminton practice. We dropped her off and headed to the [art museum](http://www.moma.pref.kanagawa.jp/en/){: target='_blank'} where Kaoru-san's sister works. No pictures were allowed inside but the main exhibit was and incredible woodcarving artist named [Bikky](http://www.shift.jp.org/en/archives/2006/09/bikky_sunazawa.html){: target='_blank'}. I really appreciated his work. Outside the museum you could see the ocean and Jin-papa pointed out one spot he likes to fish.
 
 ![ocean1](https://drive.google.com/uc?id=1wm7XAw_k3c6kvV0fcUdluj1LWxWyO8tqIw){: style='width:50%; float:left'}
 ![ocean2](https://drive.google.com/uc?id=19KEA-bpf9bJE8zOF6kbXMJkn2u3PA19EaQ){: style='width:50%; float:right'}
@@ -45,9 +45,11 @@ At noon Kino-chan had badminton practice. We dropped her off and headed to the [
 
 ![Austin by kino-chan](https://drive.google.com/uc?id=1gBlhf6dgs6saWD1q1lQpcJq5Qs8AMKG2cw){: style='width:30%; float:right'}
 After picking up Kino-chan a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Koaru-mama started making dinner as we came back (roles are very traditional in many Japanese families). We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
+<div style="clear: both;"></div>
 
 ![fishing line winder](https://drive.google.com/uc?id=1wwmnLIOQbUk26CqtChtadcfS93BuchWZhg){: style='width:50%; float:right'}
 After dinner Jin-papa showed me one of his creations. A fishing line winder (he likes fishing a lot). He used one of the composites from work and gears from a printer it's beautiful.
+<div style="clear: both;"></div>
 
 ![Yuengling of Japan](https://drive.google.com/uc?id=1if_0GzR0qEPsvhL2hJTj9NGdYA2f4T7CxQ){: style='width:30%; float:right'}The rest of the night we just hung out talking about all sorts of things until we went to bed. Oh I also had this beer that kinda reminded me of a good old Pennsylvania Yuengling.
 
