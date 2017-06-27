@@ -56,7 +56,7 @@ So apparently I didn't take any pics in the shrine and I think that's because we
 ![Shino Roof](https://drive.google.com/uc?id=1Etin6KAKaYv0KWfAAWlfIlowqN_UTkD9AA){: style='width:50%; float:right'}
 ![Shino shrine outside](https://drive.google.com/uc?id=1u5dIIDvtQEAUnV2OBscpBcvq0rzifWpr-Q)
 <div style="clear: both;"></div>
-if your good you notice the same open closed mouth gaurdian thing going on with at least two different creatures in the above image.
+If you're good you notice the same open closed mouth gaurdian thing going on with at least two different creatures in the above image.
 
 The main thing to do at the shrine is pray. Luckily it only cost 5 yen (5¢) but for the big money you can get into the inner shrine (I don't know how much, I didn't ask). As with all traditions there is a proper method: throw in your coin, bow twice, clap twice (to wake up the gods), say your prayer (make your wish), bow again, and off you go. Honestly I like it. Just outside the main shrine you can purchase Ema or hang up the one you brought and buy おみくじ (o-mikuji) a fortune/blessing for 100 yen. I didn't have a buck so I was out of luck....
 
