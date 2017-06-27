@@ -21,6 +21,7 @@ Getting off the bus we met our tour guide Shioko-san and she started with a joke
 Entering the temple there were 2 guardians. The one on the right has it's mouth open (symbolizing the beginning or あ, ah) the one on the left has it's mouth closed (symbolizing the end or ん, un). Traditionally Japanese write right to left hence the sides.
 ![guardian left](https://drive.google.com/uc?id=1XZ_JiqkK9c1cRsh6wFN_ew96NP-4EmeoWg){: style='width:50%; float:right'}
 ![gaurdian right](https://drive.google.com/uc?id=1IkeycSoQFL5U7w-59cSHIGg202i4m165LQ){: style='width:50%; float:right'}
+<div style="clear: both;"></div>
 This symbolism is very common in Japan at both Buddhist temples and Shinto shrines.
 
 ![Great Buddha approach](https://drive.google.com/uc?id=1BCJrrNCFZfMBbzawZ1r5q-Aver8gjel3mg){: style='width:50%; float:right'}
@@ -50,10 +51,13 @@ Now that we are pure let's get to the shrine but first check out all this Sake. 
 ![Sake](https://drive.google.com/uc?id=1kCiokY1DJYmypIwbRNW8YoErdlcm9qylnQ){: style='width:50%; float:right'}
 <div style="clear: both;"></div>
 
-So apparently I didn't take any pics of the shrine and I think that's because we were told not to but I do have some of the buildings around it and of the wish/prayer cards (Ema). On the end of building  roofs you will notice a swirly symbol, this is to protect from fire (no blind study has been completed to my knowledge but I guess it works, it looks cool anyway). 
+So apparently I didn't take any pics in the shrine and I think that's because we were told not to but I do have some of the building around it and of the wish/prayer cards (Ema). On the end of building roofs you will notice a swirly symbol, this is to protect from fire (no blind study has been completed to my knowledge but I guess it works, it looks cool anyway). 
 ![Ema](https://drive.google.com/uc?id=1As1m1WCwPIgwuP_vrOtG7yoVwoey6n5E1g){: style='width:50%; float:left'}
 ![Shino Roof](https://drive.google.com/uc?id=1Etin6KAKaYv0KWfAAWlfIlowqN_UTkD9AA){: style='width:50%; float:right'}
+![Shino shrine outside](https://drive.google.com/uc?id,=1u5dIIDvtQEAUnV2OBscpBcvq0rzifWpr-Q)
 <div style="clear: both;"></div>
+if your good you notice the same open closed mouth gaurdian thing going on with at least two different creatures in the above image.
+
 The main thing to do at the shrine is pray. Luckily it only cost 5 yen (5¢) but for the big money you can get into the inner shrine (I don't know how much, I didn't ask). As with all traditions there is a proper method: throw in your coin, bow twice, clap twice (to wake up the gods), say your prayer (make your wish), bow again, and off you go. Honestly I like it. Just outside the main shrine you can purchase Ema or hang up the one you brought and buy おみくじ (o-mikuji) a fortune/blessing for 100 yen. I didn't have a buck so I was out of luck....
 
 Well that all I remember hope it was fun to read. :p
