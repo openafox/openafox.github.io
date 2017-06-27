@@ -19,7 +19,7 @@ We were getting ready to head to Kamakura and I didn't really know what I had si
 Getting off the bus we met our tour guide Shioko-san and she started with a joke. 'Shio means salt and ko means child but she is actually really sweet.'  And that was completely true, she was really sweet and an amazing tour guide. Before entering the temple she told us a lot of history way to much to reiterate here but maybe you can zoom it on the pic and get and idea of the time frame....
 
 Entering the temple there were 2 guardians. The one on the right has it's mouth open (symbolizing the beginning or あ, ah) the one on the left has it's mouth closed (symbolizing the end or ん, un). Traditionally Japanese write right to left hence the sides.
-![guardian left](https://drive.google.com/uc?id=1XZ_JiqkK9c1cRsh6wFN_ew96NP-4EmeoWg){: style='width:50%; float:right'}
+![guardian left](https://drive.google.com/uc?id=1XZ_JiqkK9c1cRsh6wFN_ew96NP-4EmeoWg){: style='width:50%; float:left'}
 ![gaurdian right](https://drive.google.com/uc?id=1IkeycSoQFL5U7w-59cSHIGg202i4m165LQ){: style='width:50%; float:right'}
 <div style="clear: both;"></div>
 This symbolism is very common in Japan at both Buddhist temples and Shinto shrines.
@@ -54,7 +54,7 @@ Now that we are pure let's get to the shrine but first check out all this Sake. 
 So apparently I didn't take any pics in the shrine and I think that's because we were told not to but I do have some of the building around it and of the wish/prayer cards (Ema). On the end of building roofs you will notice a swirly symbol, this is to protect from fire (no blind study has been completed to my knowledge but I guess it works, it looks cool anyway). 
 ![Ema](https://drive.google.com/uc?id=1As1m1WCwPIgwuP_vrOtG7yoVwoey6n5E1g){: style='width:50%; float:left'}
 ![Shino Roof](https://drive.google.com/uc?id=1Etin6KAKaYv0KWfAAWlfIlowqN_UTkD9AA){: style='width:50%; float:right'}
-![Shino shrine outside](https://drive.google.com/uc?id,=1u5dIIDvtQEAUnV2OBscpBcvq0rzifWpr-Q)
+![Shino shrine outside](https://drive.google.com/uc?id=1u5dIIDvtQEAUnV2OBscpBcvq0rzifWpr-Q)
 <div style="clear: both;"></div>
 if your good you notice the same open closed mouth gaurdian thing going on with at least two different creatures in the above image.
 
