@@ -70,4 +70,3 @@ After maybe fixing her bike, we went and got lunch at a Soba restaurant. Soba is
 And then very quickly it was time to take me back to Sokendai for one more orientation day. It was really nice staying with them and they were amazing host. とてもたのしかったです(totemo tanoshikatta desu - it was a lot of fun)
 
  I hope to get to hang out with them some this summer. Kaoru-mama wants to see bike Polo and we set up a group in the app LINE for us to talk and stay in touch with. Thank you so much Jin-papa, Kaoru-mama, and Kino-chan!!!! ![home stay family](https://drive.google.com/uc?id=1Zlt-3jJYAzpKUfaKKxBBTOp1ETsXr48WUw){: style='width:50%; float:right'}
-
