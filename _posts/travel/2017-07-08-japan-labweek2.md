@@ -24,7 +24,7 @@ That weekend, well Saturday, was packed full. Saturday morning I went into the o
 
 ![ueno shrine](https://drive.google.com/uc?id=1Qy6qZWBTmb4uAvc8eCrDYqIatTrhAUy5hA){: style='width:50%; float:left'}
 ![ueni shrine2](https://drive.google.com/uc?id=11XrkB9Nqld7sokhbw_ZhvBHhxBwQyMdXCA){: style='width:50%; float:right'}
-![ueno shrine3](https://drive.google.com/uc?id=11XrkB9Nqld7sokhbw_ZhvBHhxBwQyMdXCA){: style='width:50%; float:left'}
+![ueno shrine3](https://drive.google.com/uc?id=1xBFYifONFG6HPlu5NVVti6iuAHFdVU2RUw){: style='width:50%; float:left'}
 ![ueno venders](https://drive.google.com/uc?id=11MTwCdmxsLeHKJnCAEvajtPc60mIuAvd9A){: style='width:50%; float:right'}
 
 It had been overcast all day but the sky magically had cleared up and it was approaching sunset, so we thought we should see about getting really high. Not Mary Jane she is not looked kindly on here and as such is prohibitively expensive, not that where we went is cheap. SkyTree is the tall sight seeing building in Tokyo kinda like the Space Needle it even looks similar. Tokyo tower used to be the spot but then they build this thing. For about 2,000yen ($20) you can go to 350m (1,150ft) for another 1,000yen you can goto 450m (1,475ft). we thought 350m was enough and wow the view was amazing.
