@@ -3,7 +3,8 @@ layout: post
 title: Attempting to fix a power assisted eneloop bike
 tag:
   - Japan
-  - Fix
+  - Bicycle
+  - Fixed
 category: Travel
 
 excerpt: My home stay mom's bicycle was having some trouble and I agreed to take a look at it.
