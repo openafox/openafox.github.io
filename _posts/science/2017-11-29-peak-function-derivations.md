@@ -454,7 +454,8 @@ $$(1 - \exp(-\mu/\gamma))
 
 Hmmm   IDK where to go from here.
 
-But by observation:
+But as defined in DAVE/PAN:
+
 $$\operatorname{FWHM}\approx 2\sigma$$
 
 * * *
@@ -506,6 +507,7 @@ $$\exp\left[\gamma(x_0  + \gamma\sigma^2/2)\right]
 Hmmm   IDK where to go from here.
 
 But by observation:
+
 $$\operatorname{FWHM}\approx2\sigma\sqrt{2\ln{2}}\approx 2.3548\sigma$$
 
 * * *
@@ -549,6 +551,7 @@ $$e^{[{-{(x_0)^2}/{2\sigma^2}}]} \bigl\{ 1 +
 Hmmm   IDK where to go from here.
 
 But by observation:
+
 $$\operatorname{FWHM}\approx2\sigma\sqrt{2\ln{2}}\approx 2.3548\sigma$$
 
 
