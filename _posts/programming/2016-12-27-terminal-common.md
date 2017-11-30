@@ -46,6 +46,14 @@ filpath
 
   Options: -f = force, -v = verbose
 
+* Find files and or delete matching a pattern
+  ~~~bash
+  find . -name "*.bak" -type f
+
+  find . -name "*.bak" -type f -delete
+  ~~~~
+
+
 * Find a file or text in a file
 
   ~~~bash

@@ -8,7 +8,7 @@ url: http://openafox.com
 logo: '/public/logo.png'
 
 # Site configurations
-gems:
+plugins:
   - jekyll-paginate
 markdown: kramdown
 kramdown:
@@ -45,6 +45,8 @@ nav:
     - { Tags: '/blog/tags' }
   About:          
     - '/about'
+  GitHub Project Pages:          
+    - '/projects'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags'
