@@ -408,8 +408,10 @@ Substitute back $$y=x_0^2$$
 
 $$x_0=\pm\sqrt{\mu^2(1-2\sigma^2)\pm 2\sqrt{\mu^4\sigma^2(\sigma^2+3)}}$$
 
-$$\operatorname{FWHM}=\sqrt{\mu^2(1-2\sigma^2)+ 2\sqrt{\mu^4\sigma^2(\sigma^2+3)}}
--\sqrt{\mu^2(1-2\sigma^2)- 2\sqrt{\mu^4\sigma^2(\sigma^2+3)}}$$
+Two peaks each with a FWHM of:
+
+$$\operatorname{FWHM}=\sqrt{\left|\mu^2(1-2\sigma^2)+ 2\sqrt{\mu^4\sigma^2(\sigma^2+3)}\right|}
+-\sqrt{\left|\mu^2(1-2\sigma^2)- 2\sqrt{\mu^4\sigma^2(\sigma^2+3)}\right|}$$
 
 
 
