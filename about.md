@@ -8,7 +8,7 @@ My name is Austin Fox and I am a graduate student in materials engineering, a no
 
 Please understand that I do express a few of my opinions on this site, some of which you may not agree with. I acknowledge that I may be wrong, and at the same time, my opinions have been formed by my experiences and vast amounts of research. I expect/hope that my opinions will always be changing in some fashion and I will update the site to reflect my current understanding. If you do not agree with my opinions, please contact me with respectful questions or comments with citations of research publications; most anything else will be ignored.
 
-If things on this site are unclear or could be made better (minus opinions), please feel free to send me an email. I appreciate any collaboration that can help progress your or my own work. For the most part, I will be posting .pdf files of my work. If .doc files are needed, please don’t hesitate to contact me. 
+If things on this site are unclear or could be made better (minus opinions), please feel free to send me an email. I appreciate any collaboration that can help progress your or my own work. For the most part, I will be posting .pdf files of my work. If .doc files are needed, please don’t hesitate to contact me.
 Thanks for reading!
 
 Sincere regards,
