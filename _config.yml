@@ -7,6 +7,9 @@ baseurl: ""
 url: http://openafox.com
 logo: '/public/logo.png'
 
+# Images
+images: "/resources/img"
+
 # Site configurations
 plugins:
   - jekyll-paginate
