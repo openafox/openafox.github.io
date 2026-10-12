@@ -31,22 +31,21 @@ layout: default
   </ul>
 </div>
 
-{% if site.disqus_short_name %}
+{% if site.giscus.repo_id and site.giscus.category_id %}
 <div class="comments">
   <h2>Comments</h2>
-  <div id="disqus_thread"></div>
-  <script>
-var disqus_config = function () {
-  this.page.url = '{{ site.url }}{{ page.url }}'; // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = '{{ page.id }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-(function() {
-  var d = document, s = d.createElement('script');
-  s.src = '//{{ site.disqus_short_name }}.disqus.com/embed.js';
-  s.setAttribute('data-timestamp', +new Date());
-  (d.head || d.body).appendChild(s);
-})();
+  <script src="https://giscus.app/client.js"
+          data-repo="{{ site.giscus.repo }}"
+          data-repo-id="{{ site.giscus.repo_id }}"
+          data-category="{{ site.giscus.category }}"
+          data-category-id="{{ site.giscus.category_id }}"
+          data-mapping="pathname"
+          data-reactions-enabled="1"
+          data-input-position="top"
+          data-theme="light"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
   </script>
-  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 </div>
 {% endif %}
