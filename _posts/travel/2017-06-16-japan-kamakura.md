@@ -65,4 +65,4 @@ Well that all I remember hope it was fun to read. :p
 Oh one more thing. At this Shinto Shrine there is also a Buddhist temple and a Catholic preschool. Apparently it is common in Japan to be baptized Shinto, married Catholic, and be buried Buddhist. I think as a whole they pick the nicest​/coolest traditions and do them. Not a bad method if you ask me...
 
 And because She was great, a final pic with Shioko-san our amazingly sweet tour guide:
-![Shioko and jsps group](https://drive.google.com/uc?id=1A9_uk7-7J_-dMad7AxVaBAs9Hh1h23kzEA)
+![Shioko and jsps group](/resources/img/japan-2017/kamakura-1497682561737.jpg)

@@ -18,7 +18,7 @@ The campus I work on kinda blows my mind, multiple 20ish story buildings (I'm on
 <div style="clear: both;"></div>
 
 I have also taken a nap in the woods on campus and probably will more... Oh and the instrument I will be spending a lot of time with.
-![nap](https://drive.google.com/uc?id=1KwW5eSJ1yme8jbB_IoO-aMLRNGyLXZL6hg){: style='width:50%; float:left'}
+![nap](/resources/img/japan-2017/img_20170701_114248.jpg){: style='width:50%; float:left'}
 ![xrd2](/resources/img/japan-2017/img_20170630_100233.jpg){: style='width:50%; float:right'}
 <div style="clear: both;"></div>
 
