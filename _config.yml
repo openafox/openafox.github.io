@@ -58,7 +58,7 @@ category_page: '/blog/categories'
 
 # Puglins
 mathjax: true # whether to load MathJax 3
-google_analytics_token: # GA4 measurement ID (G-XXXXXXXXXX); blank disables analytics. Old UA- IDs stopped working in 2023
+google_analytics_token: G-7MPBRL84D0 # GA4 measurement ID (G-XXXXXXXXXX); blank disables analytics. Old UA- IDs stopped working in 2023
 # Comments via giscus (GitHub Discussions); see README. Leave repo_id blank to disable.
 giscus:
   repo: openafox/openafox.github.io

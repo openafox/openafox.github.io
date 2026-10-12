@@ -13,10 +13,10 @@ excerpt: My home stay mom's bicycle was having some trouble and I agreed to take
 
 ## Too Much Power
 
-![Eneloop Bike](https://drive.google.com/uc?id=1ZME2ev_xl9jd3eARTVTWzJFoY0cxCia1ag){: style='width:50%; float:right'}
+![Eneloop Bike](/resources/img/japan-2017/img_20170618_101944.jpg){: style='width:50%; float:right'}
 My [home stay](/travel/japan-homestay) mom Kaoru-san's bicycle was having some trouble and I agreed to take a look at it. It like many bikes in Japan has electric assist. It took some time for me to understand what was happening, mostly because of the language barrier (she speaks English well but talking technical things is another ballpark and I sadly still might as well speak no Japanese). After a few minutes and the help of Google translate I learned the assist was powering while breaking and turning (this is really bad, I personally like to be able to stop). I then took it for a spin and tried to feel it. Those things are incredibly zippy and turning with it powering you is really  pretty scary. Having not worked on one of these before it was time for some exploration.
 
-![Bike work with Jin-san](https://drive.google.com/uc?id=19LAOoYVmmjAfT8vxp0VJHYFheNmcZ3XBSg){: style='width:50%; float:right'}
+![Bike work with Jin-san](/resources/img/japan-2017/img_20170618_091831.jpg){: style='width:50%; float:right'}
 Bellow the bottom bracket is a cover under which is the controller. I figured maybe there were some adjustments that could be made (change the sensitivity of a sensor of something). Jin-san and I got the cover off after some trouble, ending up with a busted off bolt head. Galvanic corrosion plus soft steel is not a good combination. Luckily that bolt only holds on the cover so nothing that can't be fixed with a zip tie.
 Saldy the adjusters I was hoping for did not exist.
 
@@ -27,6 +27,6 @@ After putting what we had disassembled of the chainring back together we cleaned
 
 ## A few other fun things about the bike
 
-![tire and valve of eneloop bike](https://drive.google.com/uc?id=1eoeC2TJmZXo0IYa3NArPH5IBOSWX96hVIQ){: style='width:50%; float:right'}
+![tire and valve of eneloop bike](/resources/img/japan-2017/img_20170618_102011.jpg){: style='width:50%; float:right'}
 - It uses 26 1/3 " tires. I thought this was just an old Schwinn size but this bike is only 8 years old so yeah..
 - It has woods type valves and apparently that is common here. I have never seen them before and still really don't know how you can check the pressure in the without adding air. Anyone?
