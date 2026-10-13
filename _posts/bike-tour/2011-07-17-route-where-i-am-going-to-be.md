@@ -16,7 +16,7 @@ So, I will follow the Atlantic cost stating some time in late January, early Feb
 
 This is just the general plan as I figure out stops it will start to get more detailed.   I will alter the route for really any reason, especially beds and the chance to visit with anyone willing to have me.   Any route suggestions, sites to see, or places to stay will be greatly appreciated.  
 
-If you would like to let me stay with you or would like to ride a section with me please leave a comment or send me an [email](mailto:austinfoxmaterials@gmail.com).  I would be happy to share my experience with other riders and it is always nice to have others to ride with.  Please become part of this story because I know everyone I meet along the way I will never forget. Thank you
+If you would like to let me stay with you or would like to ride a section with me please leave a comment.  I would be happy to share my experience with other riders and it is always nice to have others to ride with.  Please become part of this story because I know everyone I meet along the way I will never forget. Thank you
 
 ## Comments
 
