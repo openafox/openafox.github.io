@@ -7,8 +7,8 @@ permalink: /bike-tour-2012/
 Archive of my old bike tour blog (originally at foxbiketour.blogspot.com): gear prep and
 DIY panniers in 2011, then daily posts from the ride with my Uncle Charlie, March to June 2012.
 
-Photos from the 2012 ride lived in Picasa albums that Google has since shut down; I'm working on
-recovering them.
+A few photos from each day of the ride are in the posts; all 837 are in the
+[full photo album](https://photos.app.goo.gl/t4o6poa1jkSrdL2WA).
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <div id="tour-map" style="height:380px;margin:1.5rem 0;border-radius:4px"></div>
