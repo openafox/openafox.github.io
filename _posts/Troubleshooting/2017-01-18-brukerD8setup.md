@@ -17,7 +17,7 @@ There are 2 replacement options:
 So I thought I would try the install.
 Here is the list of what worked (I am not including the numerous steps I took that didn't...):
 
-0. Install old hard drive as slave to get config files (I have backups now but thank goodness that worked)
+0. Install old hard drive as a secondary drive to get config files (I have backups now but thank goodness that worked)
    * My users also appreciated that I was able to save their data
 1. Install Hardware: CronosPlus PCI Board and License Dongle
   * Restart computer and cancel prompts to install drivers
