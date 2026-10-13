@@ -32,19 +32,19 @@ Sumimasen (sorry, excuse me - most important word to know) that there aren't any
 ## On to Sokendai
 
 After breakfast (I'll talk food at some point) we filled 3 busses (there are about 115 fellows, 54 from the US) and got on the road. After and hour and a half  going through some beautiful country south of Tokyo we stopped at a small port island outside of Yokohama for a break. Here I was blown away by the civil engineering and flowers at a truck stop.
-![overpasses](https://drive.google.com/uc?id=1ohl8r5eTZ79ZcbdcGh1mxFfUOPeWJzQUZA){: style='width:100%'} After 20 min we continued on and soon made it to Sokendai.
+![overpasses](/resources/img/japan-2017/pano_20170614_105332.jpg){: style='width:100%'} After 20 min we continued on and soon made it to Sokendai.
 
 ## Shonan village center - Sokendai
 
-![view](https://drive.google.com/uc?id=1bx1n0JUeZKJiSzBHBdM_4yF-HDu999ujMw){: style='width:50%; float:left'}
-![view Fuji](https://drive.google.com/uc?id=1bIIQlqMudGJHyiri9ZbAChiG4iSsTOT6BQ){: style='width:50%; float:right'} 
-![view sunset](https://drive.google.com/uc?id=1CjRpqbPOJDExqrRof1SkfZw1tfh0jCyfKw){: style='width:50%; float:right'}
+![view](/resources/img/japan-2017/img_20170614_125343.jpg){: style='width:50%; float:left'}
+![view Fuji](/resources/img/japan-2017/img_20170615_191953.jpg){: style='width:50%; float:right'} 
+![view sunset](/resources/img/japan-2017/img_20170615_184422.jpg){: style='width:50%; float:right'}
 The conference center is really beautiful with a view of Fuji-san (sadly it's been behind the clouds) and we had a really good introduction to the program and during check-in finally got more info about our week. Intensive language classes, cultural orientation, Trip to the Great Buddha and Hachiman Shinto shrine in Kamakura, and home stay. 
 
 The language classes have been really useful and I am happy I mostly learned hiragana and katakana ( the phonetic alphabets in Japanese) before I came. I wish I would have studied a bit more before because a lot of the words/sentences are not sticking but at least I am getting​ some good resources. The last day before the home stay we also got to do some cultural things such as oragami, toys, kanji calligraphy, and a tea ceremony. It was fun and informative.
 
-![oragami](https://drive.google.com/uc?id=1oLaJjpxmO98F0pjQLE315JDBVIrrz7reVg){: style='width:50%; float:left'}
-![calligraphy and toy](https://drive.google.com/uc?id=1N-qgnlsqxXzxO5n4NdYihGsmTMR7Xh8vbg){: style='width:50%; float:right'} 
+![oragami](/resources/img/japan-2017/img_20170616_171320.jpg){: style='width:50%; float:left'}
+![calligraphy and toy](/resources/img/japan-2017/img_20170616_171349.jpg){: style='width:50%; float:right'} 
 The time is going really fast but 3 days has also felt like a week and I have met so many great people, made a bunch of friends, and learned a ton. 
 
 In the next [post](/travel/japan-kamakura) I'll talk about the trip to Kamakura.

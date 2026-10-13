@@ -4,7 +4,7 @@ tagline: "Austin Fox's personal website."
 description: 'A place for Austin to collect his thoughts and share them with the world.'
 
 baseurl: ""
-url: http://openafox.com
+url: https://openafox.com
 logo: '/public/logo.png'
 
 # Images
@@ -16,6 +16,7 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+exclude: [README.md, CLAUDE.md, IDEAS.md, serve.sh, LICENSE.md]
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed
@@ -36,7 +37,7 @@ author:
     github:    https://github.com/openafox
     # facebook:  <hide>
     twitter:   https://twitter.com/openafox
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01R_KcJmw1m4CpWB7RFMDeyw==&c=-4SUGKEgVtUwsRiJZzs51mK9wLOGsnef-19VxMpDWdM= #https://www.google.com/recaptcha/admin#mailhide
+    email:     mailto:openafox@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -56,7 +57,12 @@ tag_page: '/blog/tags'
 category_page: '/blog/categories'
 
 # Puglins
-mathjax: true # whether support mathjax
-google_analytics_token: UA-111193604-1 # leave blank if you don't want google analytics
-disqus_short_name: openafox # leave blank if you don't want disqus
+mathjax: true # whether to load MathJax 3
+google_analytics_token: G-7MPBRL84D0 # GA4 measurement ID (G-XXXXXXXXXX); blank disables analytics. Old UA- IDs stopped working in 2023
+# Comments via giscus (GitHub Discussions); see README. Leave repo_id blank to disable.
+giscus:
+  repo: openafox/openafox.github.io
+  repo_id: # R_... from https://giscus.app
+  category: Comments
+  category_id: # DIC_... from https://giscus.app
 
