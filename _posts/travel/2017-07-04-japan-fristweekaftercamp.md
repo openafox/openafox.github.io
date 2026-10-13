@@ -61,8 +61,8 @@ Then I was off to Polo. Luckily their nubbie night court is really close to my p
 
 I had a nice hour walk home from there but I would get a bike soon from one of the polo players who has his own shop.
 
-Sunday I met up with Kodai-san to go to a museum and a shrine all right downtown Tokyo. Learning about the history of conflict here in Japan and the role of Western imperialism (the US was making its claim as early as the 1850s, with others quick to follow) was really interesting, and gave me a pretty different view of the war than I got in school.
-I am not a historian, there is way more to it, and there are always multiple sides to a story.
+Sunday I met up with Kodai-san to go to a museum and a shrine all right downtown Tokyo. Learning about the history of conflict here in Japan and the involvement of imperialism was really interesting. Apparently the US was making it's claim as early as 1850 with many others (Brits, French, Dains) quick to follow. I also never knew why Japan was involved in WW2 and as it turns out it they weren't really, they only declared war on the US. They just really didn't want the Allies (mostly the US) giving supplies to China who they have been in conflict with forever. So they stopped supply ships and then the US stopped supplying Japan and they have no domestic source for a lot of important materials (oil for example) and thus declaration of war.  With no allies Japan was in a battle against time as their resources dwindled. So that all leads me to conclude, even more then I already had, that the dropping of the bomb(twice no less) was purly a show for the USSR.  It makes me sick. Now Japan is more or less a protectorate of the US from China and N Korea.
+Ok I made that really simple I am not a historian and there is way more to it and there are always multiple sides to a story so take it as you will.  
 
 The shrine was cool and had this amazing flower display. All real!!  
 
