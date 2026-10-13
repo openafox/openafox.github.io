@@ -20,10 +20,10 @@ Once we got to the lab I got to meet a few of the group members (a couple were o
 
 
 I was given the option of a fancy restaurant or a casual one. I chose casual because Funakubo-sensei made it sound more appealing (more food and would have drinks). Funakubo-sensei explained everything: a lot about the area, the culture, Japan in general, and then our food. The food was great! I had already acquired a taste for raw fish eating sashimi at sushi restaurants in the US but I have to say this was another level. The fish is really fresh and there is a lot of things you would not find or want to eat in the US. First some pics so you can guess, then I'll explain.
-![raw1](https://drive.google.com/uc?id=1HLQYvtrUJKleX-TXZCf_A38MQtSwlFrO4A){: style='width:50%; float:left'}
-![raw2](https://drive.google.com/uc?id=1EvRiuJdjEZY-_puw9LSUNql4Y0axvNxVrw){: style='width:50%; float:right'}
-![raw3](https://drive.google.com/uc?id=1gq2fc4iLiK4J-EC2kOfG1BCBLwJeIsXPXw){: style='width:50%; float:left'}
-![raw2](https://drive.google.com/uc?id=1xZZJvzy3ZYO3enjCUw7Rv5uv_qBz-pJHhA){: style='width:50%; float:right'}
+![raw1](/resources/img/japan-2017/img_20170620_194447.jpg){: style='width:50%; float:left'}
+![raw2](/resources/img/japan-2017/img_20170620_184414.jpg){: style='width:50%; float:right'}
+![raw3](/resources/img/japan-2017/img_20170620_184913.jpg){: style='width:50%; float:left'}
+![raw2](/resources/img/japan-2017/img_20170620_192324.jpg){: style='width:50%; float:right'}
 
 
 First pic is some fermented squid (Ika no shiokara), it is very salty and strong tasting. I thought it was ok but I would not ask for it... 

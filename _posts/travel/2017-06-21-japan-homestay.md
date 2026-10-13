@@ -27,8 +27,8 @@ There are a number of things I immediately noticed and very much appreciate or h
 3. The top of the toilet bowl is used as a sink. The tank fill water is run through a faucet that turns on when you flush.
 4. Bidet. Why don't we use these in the US? They really are nice - heated seat, easier/ better cleaning of yourself...
 5. Shower room. Look it up. I may post on this later but you can explore for yourself for now.
-![shoe](https://drive.google.com/uc?id=1F-o-uKt3nOxXzrGRqwZ0fJflhZ1PDaCxKA){: style='width:50%; float:left'}
-![toilet](https://drive.google.com/uc?id=1ts7sJtk46EDJ5SoLmTZQFTk-sR7ueVIB2g){: style='width:50%; float:right'}
+![shoe](/resources/img/japan-2017/img_20170618_134826.jpg){: style='width:50%; float:left'}
+![toilet](/resources/img/japan-2017/img_20170618_145005.jpg){: style='width:50%; float:right'}
 
 
 ## Day 1
@@ -37,36 +37,36 @@ After breakfast we hung out and then went and met Kaoru-san's mother and saw her
 
 At noon Kino-chan had badminton practice. We dropped her off and headed to the [art museum](http://www.moma.pref.kanagawa.jp/en/){: target='_blank'} where Kaoru-san's sister works. No pictures were allowed inside but the main exhibit was an incredible woodcarving artist named [Bikky](http://www.shift.jp.org/en/archives/2006/09/bikky_sunazawa.html){: target='_blank'}. I really appreciated his work. Outside the museum you could see the ocean and Jin-papa pointed out one spot he likes to fish.
 
-![ocean1](https://drive.google.com/uc?id=1wm7XAw_k3c6kvV0fcUdluj1LWxWyO8tqIw){: style='width:50%; float:left'}
-![ocean2](https://drive.google.com/uc?id=19KEA-bpf9bJE8zOF6kbXMJkn2u3PA19EaQ){: style='width:50%; float:right'}
-![ocean3](https://drive.google.com/uc?id=1LNXPE-vOa3-FlyB1Ky2AW27UazW73b5DPg){: style='width:50%; float:left'}
-![ocean4](https://drive.google.com/uc?id=1yC8WMXtzkU1SWNjBl4iosFAlrzVzULN4fw){: style='width:50%; float:right'}
+![ocean1](/resources/img/japan-2017/img_20170617_122804.jpg){: style='width:50%; float:left'}
+![ocean2](/resources/img/japan-2017/img_20170617_122827.jpg){: style='width:50%; float:right'}
+![ocean3](/resources/img/japan-2017/img_20170617_123008.jpg){: style='width:50%; float:left'}
+![ocean4](/resources/img/japan-2017/img_20170617_123344.jpg){: style='width:50%; float:right'}
 
 
-![Austin by kino-chan](https://drive.google.com/uc?id=1gBlhf6dgs6saWD1q1lQpcJq5Qs8AMKG2cw){: style='width:30%; float:right'}
+![Austin by kino-chan](/resources/img/japan-2017/img_20170617_211216.jpg){: style='width:30%; float:right'}
 After picking up Kino-chan and a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Kaoru-mama started making dinner as we came back (roles are very traditional in many Japanese families). We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
 <div style="clear: both;"></div>
 
-![fishing line winder](https://drive.google.com/uc?id=1wwmnLIOQbUk26CqtChtadcfS93BuchWZhg){: style='width:50%; float:right'}
+![fishing line winder](/resources/img/japan-2017/img_20170617_192331.jpg){: style='width:50%; float:right'}
 After dinner Jin-papa showed me one of his creations. A fishing line winder (he likes fishing a lot). He used one of the composites from work and gears from a printer it's beautiful.
 <div style="clear: both;"></div>
 
-![Yuengling of Japan](https://drive.google.com/uc?id=1if_0GzR0qEPsvhL2hJTj9NGdYA2f4T7CxQ){: style='width:30%; float:right'}The rest of the night we just hung out talking about all sorts of things until we went to bed. Oh I also had this beer that kinda reminded me of a good old Pennsylvania Yuengling.
+![Yuengling of Japan](/resources/img/japan-2017/img_20170617_190903.jpg){: style='width:30%; float:right'}The rest of the night we just hung out talking about all sorts of things until we went to bed. Oh I also had this beer that kinda reminded me of a good old Pennsylvania Yuengling.
 
 ## Day 2
 
 We got going a bit quicker this morning and I had promised to look at Kaoru-san's bicycle. It like many bikes in Japan has electric assist. It took some time for me to understand what was happening. The assist was powering while braking and turning (this is really bad, I personally like to be able to stop). Having not worked on one of these before it was time for some exploration.
 
-![Eneloop bike](https://drive.google.com/uc?id=19LAOoYVmmjAfT8vxp0VJHYFheNmcZ3XBSg){: style='width:50%; float:right'}
+![Eneloop bike](/resources/img/japan-2017/img_20170618_091831.jpg){: style='width:50%; float:right'}
 I wrote a separate [post](/travel/japan-powerbike) on the process of fixing the power assisted bike.
 
 After maybe fixing her bike, we went and got lunch at a Soba restaurant. Soba is buckwheat and there are a ton of things made/flavored with it but primarily it's made into noodles. It was really good and we celebrated father's day and Jin-papa  got a really good looking dessert.  After lunch, the whole family went to do some garden work. In the garden they have these cool spinners to scare off birds and the till was really quiet. It was fun to work and talk and really get to know more about their normal lives.
 
-![garden1](https://drive.google.com/uc?id=1ydPQUbQkJ7Wuhadbf3Z-ldTm32mtVDpEUg){: style='width:50%; float:left'}
-![garden2](https://drive.google.com/uc?id=1w0ijzSqR8yzkdbI_7bCNfdXrX_Y-TChQDg){: style='width:50%; float:right'}
+![garden1](/resources/img/japan-2017/img_20170618_110004.jpg){: style='width:50%; float:left'}
+![garden2](/resources/img/japan-2017/img_20170618_111644.jpg){: style='width:50%; float:right'}
 
-![spinner](https://drive.google.com/uc?id=1ELSQsrDL41rJWFle_Kaj8U_vd4Zbn4bD-A){: style='width:50%; float:right'}
+![spinner](/resources/img/japan-2017/img_20170618_113447.jpg){: style='width:50%; float:right'}
 
 And then very quickly it was time to take me back to Sokendai for one more orientation day. It was really nice staying with them and they were amazing hosts. とてもたのしかったです(totemo tanoshikatta desu - it was a lot of fun)
 
- I hope to get to hang out with them some this summer. Kaoru-mama wants to see bike Polo and we set up a group in the app LINE for us to talk and stay in touch with. Thank you so much Jin-papa, Kaoru-mama, and Kino-chan!!!! ![home stay family](https://drive.google.com/uc?id=1Zlt-3jJYAzpKUfaKKxBBTOp1ETsXr48WUw){: style='width:50%; float:right'}
+ I hope to get to hang out with them some this summer. Kaoru-mama wants to see bike Polo and we set up a group in the app LINE for us to talk and stay in touch with. Thank you so much Jin-papa, Kaoru-mama, and Kino-chan!!!! ![home stay family](/resources/img/japan-2017/img_20170618_172921.jpg){: style='width:50%; float:right'}
