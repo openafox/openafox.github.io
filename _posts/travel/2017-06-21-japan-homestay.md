@@ -44,7 +44,7 @@ At noon Kino-chan had badminton practice. We dropped her off and headed to the [
 
 
 ![Austin by kino-chan](https://drive.google.com/uc?id=1gBlhf6dgs6saWD1q1lQpcJq5Qs8AMKG2cw){: style='width:30%; float:right'}
-After picking up Kino-chan a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Koaru-mama started making dinner as we came back (roles are very traditional in many Japanese families). We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
+After picking up Kino-chan a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Koaru-mama started making dinner as we came back. We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
 <div style="clear: both;"></div>
 
 ![fishing line winder](https://drive.google.com/uc?id=1wwmnLIOQbUk26CqtChtadcfS93BuchWZhg){: style='width:50%; float:right'}
