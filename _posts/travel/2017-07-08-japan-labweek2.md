@@ -23,7 +23,7 @@ Most of the week was collecting a small amount of data then figuring out how to 
 That weekend, well Saturday, was packed full. Saturday morning I went into the office to take out a sample and run another one, that takes 5hrs so I took a nap, I mean come on it's Saturday. Then I quickly stopped by my apt and hopped on my bike to go meet up with Kamrie, Kasia, Emil, and Steve. They were headed to Ueno, an awesome park with a zoo and museum, sadly we didn't get there early enough for either to be worthwhile. While I tried to find the crew I ran in to some other JSPS fellows who we would meet up with again later and then much later. In the park was a few shrines and a cool vendor space.
 
 ![ueno shrine](/resources/img/japan-2017/img_20170701_160643.jpg){: style='width:50%; float:left'}
-![ueni shrine2](/resources/img/japan-2017/img_20170701_162055.jpg){: style='width:50%; float:right'}
+![ueno shrine2](/resources/img/japan-2017/img_20170701_162055.jpg){: style='width:50%; float:right'}
 ![ueno shrine3](/resources/img/japan-2017/img_20170701_163258.jpg){: style='width:50%; float:left'}
 ![ueno venders](/resources/img/japan-2017/img_20170701_172328.jpg){: style='width:50%; float:right'}
 
@@ -33,7 +33,7 @@ It had been overcast all day but the sky magically had cleared up and it was app
 ![SkyTree3](/resources/img/japan-2017/img_20170701_184056.jpg){: style='width:50%; float:left'}
 ![skytree4](/resources/img/japan-2017/img_20170701_192104.jpg){: style='width:50%; float:right'}
 
-So then it was off to polo (16km away). My host family was meeting me there because they wanted to check it out. Sadly I wasn't thinking and didn't get a picture with them. I was a good night of polo and we stopped at tye combini after to grab a beer or 2 as is customary. ![combini bikes](/resources/img/japan-2017/img_20170701_221140.jpg){: style='width:50%; float:right'}
+So then it was off to polo (16km away). My host family was meeting me there because they wanted to check it out. Sadly I wasn't thinking and didn't get a picture with them. It was a good night of polo and we stopped at the combini after to grab a beer or 2 as is customary. ![combini bikes](/resources/img/japan-2017/img_20170701_221140.jpg){: style='width:50%; float:right'}
 
 I then got in touch with Emil, he was out doing karaoke with the folks I kept running into earlier. The almost 20km ride was nice because it had finally cooled off and then when I got there Emil's GPS was messing up and put me 3blocks away. it took us like 20min to figure out. Karaoke was fun and if you have never done a private room style its worth the while. 
 Then it was off to a club. The place we ended up at was interesting (weird music combo and mostly middle aged women) but stayed until 5am, everyone else kinda had too because of being able to catch the first trains. You could tell the normal crowd thought we were weird but eventually we ended up talking with some and one guy in our group got danced with. haha

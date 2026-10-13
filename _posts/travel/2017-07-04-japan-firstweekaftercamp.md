@@ -51,7 +51,7 @@ Then it was back to the craziness of Shibuya as it was on Kamrie and my ways hom
 
 ![Shibuya street](/resources/img/japan-2017/img_20170624_173257.jpg){: style='width:50%; float:left'}
 ![Trump bar](/resources/img/japan-2017/img_20170624_191453.jpg){: style='width:50%; float:right'}
-![basement bars everwhere](/resources/img/japan-2017/img_20170624_184734.jpg){: style='width:50%; float:left'}
+![basement bars everywhere](/resources/img/japan-2017/img_20170624_184734.jpg){: style='width:50%; float:left'}
 ![grill your own](/resources/img/japan-2017/img_20170624_194314.jpg){: style='width:50%; float:right'}
 
 Then I was off to Polo. Luckily their newbie night court is really close to my place at the '64 Olympic site. It's a cool spot  I should probably go explore at some point. The club is fairly small (similar to Corvallis) but they have quite a few newish players. They also have a couple of really good players. It was awesome getting to play with them and hang. A few of them speak pretty good English so it made things way easier. Also most of the on court communication is English so playing is awesome. I am stoked to play with them all summer!!!

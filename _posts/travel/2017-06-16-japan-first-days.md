@@ -43,7 +43,7 @@ The conference center is really beautiful with a view of Fuji-san (sadly it's be
 
 The language classes have been really useful and I am happy I mostly learned hiragana and katakana ( the phonetic alphabets in Japanese) before I came. I wish I would have studied a bit more before because a lot of the words/sentences are not sticking but at least I am getting some good resources. The last day before the home stay we also got to do some cultural things such as origami, toys, kanji calligraphy, and a tea ceremony. It was fun and informative.
 
-![oragami](/resources/img/japan-2017/img_20170616_171320.jpg){: style='width:50%; float:left'}
+![origami](/resources/img/japan-2017/img_20170616_171320.jpg){: style='width:50%; float:left'}
 ![calligraphy and toy](/resources/img/japan-2017/img_20170616_171349.jpg){: style='width:50%; float:right'} 
 The time is going really fast but 3 days has also felt like a week and I have met so many great people, made a bunch of friends, and learned a ton. 
 

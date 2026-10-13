@@ -20,7 +20,7 @@ Getting off the bus we met our tour guide Shioko-san and she started with a joke
 
 Entering the temple there were 2 guardians. The one on the right has its mouth open (symbolizing the beginning or あ, ah) the one on the left has its mouth closed (symbolizing the end or ん, un). Traditionally Japanese write right to left hence the sides.
 ![guardian left](/resources/img/japan-2017/img_20170615_142519.jpg){: style='width:50%; float:left'}
-![gaurdian right](/resources/img/japan-2017/img_20170615_142418.jpg){: style='width:50%; float:right'}
+![guardian right](/resources/img/japan-2017/img_20170615_142418.jpg){: style='width:50%; float:right'}
 <div style="clear: both;"></div>
 This symbolism is very common in Japan at both Buddhist temples and Shinto shrines.
 
