@@ -1,0 +1,386 @@
+[
+ {
+  "place": "Myrtle Beach",
+  "lat": 33.696,
+  "lon": -78.89,
+  "url": "/bicycle/training-week.html",
+  "title": "Training week",
+  "van": false
+ },
+ {
+  "place": "McClellanville",
+  "lat": 33.088,
+  "lon": -79.461,
+  "url": "/bicycle/first-day.html",
+  "title": "First day",
+  "van": false
+ },
+ {
+  "place": "Charleston",
+  "lat": 32.788,
+  "lon": -79.94,
+  "url": "/bicycle/down-to-charleston.html",
+  "title": "Down to Charleston",
+  "van": false
+ },
+ {
+  "place": "Walterboro",
+  "lat": 32.902,
+  "lon": -80.667,
+  "url": "/bicycle/day-3.html",
+  "title": "Day 3",
+  "van": false
+ },
+ {
+  "place": "Claxton",
+  "lat": 32.162,
+  "lon": -81.904,
+  "url": "/bicycle/one-state-down.html",
+  "title": "One state down!",
+  "van": false
+ },
+ {
+  "place": "Vidalia",
+  "lat": 32.218,
+  "lon": -82.413,
+  "url": "/bicycle/rain-rain-go-away.html",
+  "title": "Rain rain go away.",
+  "van": false
+ },
+ {
+  "place": "Cordele",
+  "lat": 31.969,
+  "lon": -83.783,
+  "url": "/bicycle/century-1-fish-worm.html",
+  "title": "Century 1 (fish worm)",
+  "van": false
+ },
+ {
+  "place": "Blakely",
+  "lat": 31.377,
+  "lon": -84.934,
+  "url": "/bicycle/park-hopping.html",
+  "title": "Park hopping",
+  "van": false
+ },
+ {
+  "place": "Chipley",
+  "lat": 30.782,
+  "lon": -85.539,
+  "url": "/bicycle/controlled-burn.html",
+  "title": "Controlled burn",
+  "van": false
+ },
+ {
+  "place": "Crestview",
+  "lat": 30.762,
+  "lon": -86.571,
+  "url": "/bicycle/train-race-day-at-beach.html",
+  "title": "Train race / day at the beach",
+  "van": false
+ },
+ {
+  "place": "Pensacola",
+  "lat": 30.421,
+  "lon": -87.217,
+  "url": "/bicycle/winging-it.html",
+  "title": "Winging it",
+  "van": false
+ },
+ {
+  "place": "Gulf Shores",
+  "lat": 30.271,
+  "lon": -87.689,
+  "url": "/bicycle/gulf-coast.html",
+  "title": "Gulf coast",
+  "van": false
+ },
+ {
+  "place": "Biloxi",
+  "lat": 30.401,
+  "lon": -88.889,
+  "url": "/bicycle/sitting-at-dock-of-bay.html",
+  "title": "Sitting at the dock of the bay.",
+  "van": false
+ },
+ {
+  "place": "Amite City",
+  "lat": 30.727,
+  "lon": -90.509,
+  "url": "/bicycle/swimming.html",
+  "title": "Swimming",
+  "van": false
+ },
+ {
+  "place": "Jackson",
+  "lat": 30.837,
+  "lon": -91.217,
+  "url": "/bicycle/holyholely-road.html",
+  "title": "Holy/holely road",
+  "van": false
+ },
+ {
+  "place": "Eunice",
+  "lat": 30.494,
+  "lon": -92.418,
+  "url": "/bicycle/dislocated.html",
+  "title": "Dislocated",
+  "van": false
+ },
+ {
+  "place": "Ragley",
+  "lat": 30.513,
+  "lon": -93.232,
+  "url": "/bicycle/easter-sunday.html",
+  "title": "Easter Sunday",
+  "van": false
+ },
+ {
+  "place": "Beaumont",
+  "lat": 30.083,
+  "lon": -94.098,
+  "url": "/bicycle/into-texas.html",
+  "title": "Into Texas",
+  "van": false
+ },
+ {
+  "place": "Houston",
+  "lat": 29.759,
+  "lon": -95.368,
+  "url": "/bicycle/cluster.html",
+  "title": "Cluster",
+  "van": false
+ },
+ {
+  "place": "Brenham",
+  "lat": 30.167,
+  "lon": -96.398,
+  "url": "/bicycle/strong.html",
+  "title": "Strong",
+  "van": false
+ },
+ {
+  "place": "Austin",
+  "lat": 30.265,
+  "lon": -97.747,
+  "url": "/bicycle/austin-to-austin.html",
+  "title": "Austin to Austin",
+  "van": false
+ },
+ {
+  "place": "Llano",
+  "lat": 30.666,
+  "lon": -98.697,
+  "url": "/bicycle/are-we-in-texas.html",
+  "title": "Are we in Texas?",
+  "van": false
+ },
+ {
+  "place": "San Angelo",
+  "lat": 31.465,
+  "lon": -100.441,
+  "url": "/bicycle/deller.html",
+  "title": "Deller's",
+  "van": false
+ },
+ {
+  "place": "Colorado City",
+  "lat": 32.393,
+  "lon": -100.864,
+  "url": "/bicycle/wind.html",
+  "title": "Wind",
+  "van": false
+ },
+ {
+  "place": "Post",
+  "lat": 33.191,
+  "lon": -101.381,
+  "url": "/bicycle/energy-highway.html",
+  "title": "Energy highway",
+  "van": false
+ },
+ {
+  "place": "Lubbock",
+  "lat": 33.586,
+  "lon": -101.847,
+  "url": "/bicycle/cap-rock.html",
+  "title": "Cap rock",
+  "van": false
+ },
+ {
+  "place": "Tulia",
+  "lat": 34.539,
+  "lon": -101.768,
+  "url": "/bicycle/here-comes-heat.html",
+  "title": "Here comes the heat",
+  "van": false
+ },
+ {
+  "place": "Amarillo",
+  "lat": 35.207,
+  "lon": -101.837,
+  "url": "/bicycle/2000.html",
+  "title": "2000",
+  "van": false
+ },
+ {
+  "place": "Spearman",
+  "lat": 36.194,
+  "lon": -101.192,
+  "url": "/bicycle/good-long-day.html",
+  "title": "Good long day...",
+  "van": false
+ },
+ {
+  "place": "Guymon",
+  "lat": 36.681,
+  "lon": -101.481,
+  "url": "/bicycle/oklahoma-where-wind.html",
+  "title": "Oklahoma where the wind...",
+  "van": false
+ },
+ {
+  "place": "Richfield",
+  "lat": 37.266,
+  "lon": -101.782,
+  "url": "/bicycle/cattle_01.html",
+  "title": "Cattle",
+  "van": false
+ },
+ {
+  "place": "Springfield",
+  "lat": 37.404,
+  "lon": -102.617,
+  "url": "/bicycle/colorado.html",
+  "title": "Colorado",
+  "van": false
+ },
+ {
+  "place": "Hasty",
+  "lat": 38.112,
+  "lon": -102.957,
+  "url": "/bicycle/prairie-dogs.html",
+  "title": "Prairie dogs",
+  "van": false
+ },
+ {
+  "place": "Pueblo",
+  "lat": 38.264,
+  "lon": -104.614,
+  "url": "/bicycle/mountains.html",
+  "title": "Mountains",
+  "van": false
+ },
+ {
+  "place": "Colorado Springs",
+  "lat": 38.834,
+  "lon": -104.825,
+  "url": "/bicycle/foxs.html",
+  "title": "Foxs",
+  "van": false
+ },
+ {
+  "place": "Salida",
+  "lat": 38.537,
+  "lon": -105.991,
+  "url": "/bicycle/b-e-utiful.html",
+  "title": "B e a utiful",
+  "van": false
+ },
+ {
+  "place": "Gunnison",
+  "lat": 38.648,
+  "lon": -107.06,
+  "url": "/bicycle/11300.html",
+  "title": "11,300",
+  "van": false
+ },
+ {
+  "place": "Montrose",
+  "lat": 38.438,
+  "lon": -108.24,
+  "url": "/bicycle/climbing-day-2.html",
+  "title": "Climbing day 2?",
+  "van": false
+ },
+ {
+  "place": "Ridgway",
+  "lat": 38.153,
+  "lon": -107.762,
+  "url": "/bicycle/hot-springs-rest-day.html",
+  "title": "Hot springs - rest day?",
+  "van": false
+ },
+ {
+  "place": "Rico",
+  "lat": 37.693,
+  "lon": -108.032,
+  "url": "/bicycle/good-ride-good-water.html",
+  "title": "Good ride good water",
+  "van": false
+ },
+ {
+  "place": "Yellow Jacket",
+  "lat": 37.533,
+  "lon": -108.717,
+  "url": "/bicycle/out-of-mountains.html",
+  "title": "Out of the mountains",
+  "van": false
+ },
+ {
+  "place": "Blanding",
+  "lat": 37.624,
+  "lon": -109.478,
+  "url": "/bicycle/3013.html",
+  "title": "3013",
+  "van": false
+ },
+ {
+  "place": "Natural Bridges National Monument",
+  "lat": 37.603,
+  "lon": -110.011,
+  "url": "/bicycle/i-lied.html",
+  "title": "I lied...",
+  "van": false
+ },
+ {
+  "place": "Hite",
+  "lat": 37.891,
+  "lon": -110.37,
+  "url": "/bicycle/glen-canyon.html",
+  "title": "Glen canyon",
+  "van": false
+ },
+ {
+  "place": "Hanksville",
+  "lat": 38.374,
+  "lon": -110.706,
+  "url": "/bicycle/civilization.html",
+  "title": "Civilization?",
+  "van": false
+ },
+ {
+  "place": "Torrey",
+  "lat": 38.3,
+  "lon": -111.42,
+  "url": "/bicycle/wind-hitching-and-running-out-of-space.html",
+  "title": "Wind, hitching, and running out of space",
+  "van": false
+ },
+ {
+  "place": "Springdale",
+  "lat": 37.189,
+  "lon": -112.999,
+  "url": "/bicycle/canyons-rocks-and-good-times.html",
+  "title": "Canyons, rocks, and good times",
+  "van": true
+ },
+ {
+  "place": "Las Vegas",
+  "lat": 36.167,
+  "lon": -115.148,
+  "url": "/bicycle/vegasca-here-we-come.html",
+  "title": "Vegas/Ca here we come",
+  "van": true
+ }
+]
