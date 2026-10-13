@@ -22,6 +22,7 @@ Check out the [TED talk here](http://www.ted.com/talks/celeste_headlee_10_ways_t
     : We want to be in control
     : We get distracted - we can think at 2x the speed we talk
 
-10. Be brief - “A good conversation is like a miniskirt – short enough to retain interest but long enough to cover the subject” -*Celesete Headlee’s sister*
+<!-- REVIEW (Austin): original line quoted Headlee's sister: "A good conversation is like a miniskirt – short enough to retain interest but long enough to cover the subject." Keep the paraphrase below, restore the quote, or reword. -->
+10. Be brief - short enough to keep interest, long enough to cover the subject
 
 Be interested in other people and be prepared to be amazed.
