@@ -16,7 +16,7 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
-exclude: [README.md, CLAUDE.md, serve.sh, LICENSE.md]
+exclude: [README.md, CLAUDE.md, IDEAS.md, serve.sh, LICENSE.md]
 excerpt_separator: "<!-- more -->"
 sass:
   style: compressed

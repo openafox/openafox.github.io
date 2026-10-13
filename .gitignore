@@ -52,3 +52,6 @@ Icon*
 # local build
 Gemfile.lock
 .bundle
+
+# drafts stay local until /publish (existing tracked drafts are unaffected)
+_drafts/*

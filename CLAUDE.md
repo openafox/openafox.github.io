@@ -19,6 +19,12 @@ Docker Desktop must be running (`open -a Docker`). Gems are cached in the
 
 ## Writing posts
 
+Project skills in `.claude/skills/` handle the workflow: `/new-post` (draft from rough
+notes, voice guide in `new-post/voice.md`), `/add-images` (resize + strip GPS via script),
+`/publish` (date, build, push to master), `/idea` (append to `IDEAS.md`).
+New drafts in `_drafts/` are gitignored until published.
+
+
 - Posts live in `_posts/<category-folder>/YYYY-MM-DD-slug.md`; work in progress goes in `_drafts/`.
 - Front matter: `layout: post`, `title`, `category`, `tag` (or `tags`), optional `excerpt`.
 - Permalinks come out as `/<category>/<slug>.html`.
