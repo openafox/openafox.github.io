@@ -12,12 +12,12 @@ On Thursday I had 2 different users tell me the XRD computer would not boot. Its
 There are 2 replacement options:
 
 1. Pay Bruker a bunch of money(10K+) for a new computer (Win 7), software, and install.
-2. Take a similar XP system and attempt to get the software installed (could be easier said then done).
+2. Take a similar XP system and attempt to get the software installed (could be easier said than done).
 
 So I thought I would try the install.
 Here is the list of what worked (I am not including the numerous steps I took that didn't...):
 
-0. Install old hard drive as slave to get config files (I have backups now but thank goodness that worked)
+0. Install old hard drive as a secondary drive to get config files (I have backups now but thank goodness that worked)
    * My users also appreciated that I was able to save their data
 1. Install Hardware: CronosPlus PCI Board and License Dongle
   * Restart computer and cancel prompts to install drivers

@@ -4,10 +4,10 @@ title: Open Access Survey Response.
 tag: Philosophy
 category: Open Access
 
-excerpt: I was recently asked as and OpenCon Alum to take the following survey. I thought it was worth posting with my responses.
+excerpt: I was recently asked as an OpenCon Alum to take the following survey. I thought it was worth posting with my responses.
 ---
 
-I was recently asked as and OpenCon Alum to take the following survey. I thought it was worth posting with my responses(in *italics*).
+I was recently asked as an OpenCon Alum to take the following survey. I thought it was worth posting with my responses(in *italics*).
 
 ## The BOAI 15
 
@@ -36,7 +36,7 @@ In what kind of institution do you work at?
 
 What does success mean for Open Access? What criteria, tests, milestones, or metrics should we monitor?
 
-*I don't think we have really succeed until all scientific literature is free to the public and in a format that is easily accessible. I think Open Access is merely a stepping stone for the future of science and society. The question should be what is the next thing the community needs to fight for? (open data with all publications, the peer reviewlution, a unified research product database (beyond open), etc.)*
+*I don't think we have really succeeded until all scientific literature is free to the public and in a format that is easily accessible. I think Open Access is merely a stepping stone for the future of science and society. The question should be what is the next thing the community needs to fight for? (open data with all publications, the peer reviewlution, a unified research product database (beyond open), etc.)*
 
 Open Access is still facing many obstacles. Rate on scale from: rate from Completely Disagree to Completely Agree
 
@@ -48,7 +48,7 @@ What are the challenges still facing Open Access in 2017? (bullet points, long f
 2. *APCs <- defeats some of the purpose, contributes to 1.*
 3. *Peer review - while it is being challenged by some across the board it is still a who you know system*
 4. *The use of IF for tenure and funding decisions - again contributor to 1. but also caused by 1.*
-5. *We live in a capitalistic society so until open is more monetarily beneficial (why 3. is a problem) or regulations are put in place to force the issue (with the new US admin we may loose some) we are in for a tough fight.*
+5. *We live in a capitalistic society so until open is more monetarily beneficial (why 3. is a problem) or regulations are put in place to force the issue (with the new US admin we may lose some) we are in for a tough fight.*
 
 What challenges do you or does your organization face in implementing Open Access?
 
@@ -62,4 +62,4 @@ Tell us about the value of Open Access in your discipline/country, or to your pe
 
 *Personally - there are oodles of papers I would not have access to if it were not for them recently becoming open. Some of these papers have allowed me to expand on old research others have helped me understand what is happening in my material processing.
 Discipline - Materials Science being extremely multidisciplinary can make it very difficult to understand all aspects of your research. When it comes down to it finding that one paper where someone has already figured out what is going on and explained it in general terms (rather than the deep incomprehensible chemistry or physics for example) is invaluable. Open access makes that more possible by opening the doors to more papers where abstracts are not enough.
-Country - I believe (or at least want too, hope was recently slightly lost) that 'mericans are becoming more scientifically literate. With more scientific literacy many other good things are possible such as equality and truly working with our environment. Open Access is a sept toward increasing scientific literacy just by making the literature available.*
+Country - I believe (or at least want to, hope was recently slightly lost) that 'mericans are becoming more scientifically literate. With more scientific literacy many other good things are possible such as equality and truly working with our environment. Open Access is a step toward increasing scientific literacy just by making the literature available.*

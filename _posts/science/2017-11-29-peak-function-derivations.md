@@ -4,7 +4,7 @@ title: Derivation of FWHM and Height for Peak Fitting Functions
 tag: Learning
 category: Science
 
-excerpt: Gaussian (Normal distribution), Lorentzian, Voigt, Pseudo Voigt, Moffat, Pearson 7, Students T, Breit-Wigner-Fano, Lognormal, Damped Oscillator, Exponential Gaussian, Skewed Gaussian, Donaich Sunjic (photo-emission),
+excerpt: Gaussian (Normal distribution), Lorentzian, Voigt, Pseudo Voigt, Moffat, Pearson 7, Students T, Breit-Wigner-Fano, Lognormal, Damped Oscillator, Exponential Gaussian, Skewed Gaussian, Doniach Sunjic (photo-emission),
 ---
 
 
@@ -88,7 +88,7 @@ $$z=\frac{x-\mu +i\gamma}{\sigma\sqrt{2}}$$
 
 $$w(z)=e^{-z^2}{\operatorname{erfc}}(-iz)$$
 
-`erfc` is the complimentary error function.  As above,
+`erfc` is the complementary error function.  As above,
 
 ### Voigt Height
 {:.no_toc}
@@ -471,7 +471,7 @@ $$f(x; A, \mu, \sigma, \gamma) = \frac{A\gamma}{2}
 \operatorname{erfc}\left(\frac{\mu + \gamma\sigma^2 - x}{\sqrt{2}\sigma}\right)$$
 
 
-where :func:`erfc` is the complimentary error function.
+where :func:`erfc` is the complementary error function.
 
 ### Exponential Gaussian Height
 {:.no_toc}
@@ -558,7 +558,7 @@ $$\operatorname{FWHM}\approx2\sigma\sqrt{2\ln{2}}\approx 2.3548\sigma$$
 
 
 * * *
-## Donaich Sunjic (photo-emission)
+## Doniach Sunjic (photo-emission)
 
 A = amplitude, $$\mu$$ = center, $$\sigma$$ = sigma, and $$\gamma$$ = gamma
 (see [Casaxps](http://www.casaxps.com/help_manual/line_shapes.htm) for more info)
@@ -566,7 +566,7 @@ A = amplitude, $$\mu$$ = center, $$\sigma$$ = sigma, and $$\gamma$$ = gamma
 $$f(x; A, \mu, \sigma, \gamma) = \frac{A}{\sigma^{1-\gamma}}\frac{\cos\left[\pi\gamma/2 + (1-\gamma)
 \arctan{((x - \mu)/\sigma)}\right]} {\left[1 + (x-\mu)/\sigma\right]^{(1-\gamma)/2}}$$
 
-###  Donaich Sunjic Height
+###  Doniach Sunjic Height
 {:.no_toc}
 
 Max height occurs at x = $$\mu$$
@@ -579,7 +579,7 @@ $$=\frac{A}{\sigma^{1-\gamma}}\frac{\cos\left[\pi\gamma/2\right]} {\left[1\right
 $$\operatorname{height}=\frac{A}{\sigma^{1-\gamma}}\cos(\pi\gamma/2)$$
 
 
-###  Donaich Sunjic FWHM
+###  Doniach Sunjic FWHM
 {:.no_toc}
 
 FWHM is found by finding the values of x at 1/2 the max height. For simplicity $$\mu$$ can be set to 0.

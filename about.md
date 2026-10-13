@@ -16,9 +16,3 @@ Sincere regards,
 Austin Fox
 
 My contact info is contained in the side bar.
-
-# CV/Resume
-
-[CV/Resume](https://docs.google.com/document/d/1tp_bvw0-RApB94aPd2z91jG5Jyd4CzCnQ71NfEPAKqI/edit?usp=sharing){: target="_blank"}
-
-[Resume-skills based](https://docs.google.com/document/d/1_VG8FtSTKoFkDPBHw5EL99Fte4npN2T7QQxNrjmH4PI/edit?usp=sharing){: target="_blank"}

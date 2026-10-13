@@ -6,7 +6,7 @@ tag:
   - Philosophy
 category: Bicycle
 
-excerpt: A little bit on my philosophy on bicycling and why its such a big part of my life.
+excerpt: A little bit on my philosophy on bicycling and why it's such a big part of my life.
 
 ---
 
@@ -22,7 +22,7 @@ I often get asked why I did such a thing. The simple answer is that I had time a
 I was lucky to have a great companion on my trip who I was able to learn a lot from. My Uncle Charlie (69 at the time, I was 23), had wanted to do a trip like what I was planning all his life but had not ridden a bike for almost 45 years. A year before we left he started at 1 mile and added a mile everyday until he was riding 40 miles a day. On our trip we averaged about 60 miles a day. He is an inspiration and greatly enhanced what I felt to be a life changing experience. 
 I have met a lot of people who have done similar trips and all have agreed that it changed them for the better. Pretty much all these people want to do more long tours, as do I, and suggest that everyone, given the opportunity, should take a long bike tour. It will change your life!!
 
-If you want to read more about my trip, please check out my poorly written blog. (post were written after long days of riding and I am a bad writer anyhow, so...) [FoxBikeTour][tour]
+If you want to read more about my trip, please check out my poorly written blog. (posts were written after long days of riding and I am a bad writer anyhow, so...) [FoxBikeTour][tour]
 
 ## Bike Polo
 This game is so much fun to play!

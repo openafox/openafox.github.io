@@ -28,7 +28,7 @@ I believe that the next cultural and scientific revolution will be in the form o
 ## OpenCon 2014
 
 I want to thank the Oregon State University Library for sponsoring me to go to OpenCon2014. 
-This conference was life changing and there is no way I could do it justice by trying to summarize it. A few others have tried and done a much better job then I ever could:
+This conference was life changing and there is no way I could do it justice by trying to summarize it. A few others have tried and done a much better job than I ever could:
 <a href="http://blog.martinb.za.net/2014/opencon-2014/" target="_blank">Martin Bentley</a>, 
 <a href="http://rossmounce.co.uk/2014/11/20/opencon2014/" target="_blank">Ross Mounce</a>, 
 <a href="http://kpurshouse.blogspot.co.uk/2014/11/opencon-2014.html" target="_blank">Karin Purshouse</a>, 
@@ -37,7 +37,7 @@ This conference was life changing and there is no way I could do it justice by t
 <a href="http://blogs.ch.cam.ac.uk/pmr/2014/11/18/opencon2014-was-the-best-and-most-important-meeting-of-my-life-the-revolution-is-launched/" target="_blank">Peter Murray-Rust</a>, and 
 <a href="http://blogs.scientificamerican.com/absolutely-maybe/2014/11/16/generation-open-sneak-peek-into-sciences-future-at-opencon-2014/" target="_blank">Hilda Bastien at Scientific American</a><br>
 To watch the whole thing Check out the videos <a href="http://opencon2014.org/resources" target="_blank">here</a>.
-All the slides will are <a href="http://t.co/SDCgwxkfgi" target="_blank">here</a>.
+All the slides are <a href="http://t.co/SDCgwxkfgi" target="_blank">here</a>.
 
 ## Links to resources and good info:
 

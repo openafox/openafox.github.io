@@ -4,7 +4,7 @@ title: Home stay
 tag: Japan
 category: Travel
 
-excerpt: For two days a sweet Japanese family invited me into there home.
+excerpt: For two days a sweet Japanese family invited me into their home.
 
 ---
 
@@ -20,12 +20,12 @@ After dinner I gave the family my presents from Oregon. This is a tradition in J
 
 ## The Japanese home
 
-There are a number things I immediately noticed and very much appreciate or have come to appreciate about the Japanese home.
+There are a number of things I immediately noticed and very much appreciate or have come to appreciate about the Japanese home.
 
 1.  The main floor is a step up from the space for shoes just inside the door. You do not wear shoes inside the home in Japan and I find the way they create a space that makes it easy to do amazing.
 2. The toilet gets its own room.
-3. The top of the toilet bowl is used as a sink. The tank fill water is run threw a faucet that turns on when you flush.
-4. Bidet. Why don't we use these in the US? They really​ are nice - heated seat, easier/ better cleaning of yourself...
+3. The top of the toilet bowl is used as a sink. The tank fill water is run through a faucet that turns on when you flush.
+4. Bidet. Why don't we use these in the US? They really are nice - heated seat, easier/ better cleaning of yourself...
 5. Shower room. Look it up. I may post on this later but you can explore for yourself for now.
 ![shoe](/resources/img/japan-2017/img_20170618_134826.jpg){: style='width:50%; float:left'}
 ![toilet](/resources/img/japan-2017/img_20170618_145005.jpg){: style='width:50%; float:right'}
@@ -33,9 +33,9 @@ There are a number things I immediately noticed and very much appreciate or have
 
 ## Day 1
 
-After breakfast we hung out and then went and met Kaoru-san's mother and saw her younger sisters jewelry workshop. Her parents and sister live next door. Then we went and saw the community garden just down the street. They grow onions, garlic, ginger, tomatoes, sweet potatoes, eggplant, green pepper, shiso (mint/basil like) and more. There l met Kaoru-san's father he is a great gardener.
+After breakfast we hung out and then went and met Kaoru-san's mother and saw her younger sister's jewelry workshop. Her parents and sister live next door. Then we went and saw the community garden just down the street. They grow onions, garlic, ginger, tomatoes, sweet potatoes, eggplant, green pepper, shiso (mint/basil like) and more. There I met Kaoru-san's father he is a great gardener.
 
-At noon Kino-chan had badminton practice. We dropped her off and headed to the [art museum](http://www.moma.pref.kanagawa.jp/en/){: target='_blank'} where Kaoru-san's sister works. No pictures were allowed inside but the main exhibit was and incredible woodcarving artist named [Bikky](http://www.shift.jp.org/en/archives/2006/09/bikky_sunazawa.html){: target='_blank'}. I really appreciated his work. Outside the museum you could see the ocean and Jin-papa pointed out one spot he likes to fish.
+At noon Kino-chan had badminton practice. We dropped her off and headed to the [art museum](http://www.moma.pref.kanagawa.jp/en/){: target='_blank'} where Kaoru-san's sister works. No pictures were allowed inside but the main exhibit was an incredible woodcarving artist named [Bikky](http://www.shift.jp.org/en/archives/2006/09/bikky_sunazawa.html){: target='_blank'}. I really appreciated his work. Outside the museum you could see the ocean and Jin-papa pointed out one spot he likes to fish.
 
 ![ocean1](/resources/img/japan-2017/img_20170617_122804.jpg){: style='width:50%; float:left'}
 ![ocean2](/resources/img/japan-2017/img_20170617_122827.jpg){: style='width:50%; float:right'}
@@ -44,7 +44,7 @@ At noon Kino-chan had badminton practice. We dropped her off and headed to the [
 
 
 ![Austin by kino-chan](/resources/img/japan-2017/img_20170617_211216.jpg){: style='width:30%; float:right'}
-After picking up Kino-chan a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Koaru-mama started making dinner as we came back (roles are very traditional in many Japanese families). We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
+After picking up Kino-chan and a nap, we went and did a little bit of weeding. I volunteered and it seemed like Jin-papa wouldn't have done any that day (Saturday) except that I asked. Kaoru-mama started making dinner as we came back (roles are very traditional in many Japanese families). We ran to the super market quick to get some things and to show me what to look for. The way to pick fish is by proximity so I am basically out of luck. :( Please help me Google! While we were gone Kino-chan drew a picture of me. :)
 <div style="clear: both;"></div>
 
 ![fishing line winder](/resources/img/japan-2017/img_20170617_192331.jpg){: style='width:50%; float:right'}
@@ -55,18 +55,18 @@ After dinner Jin-papa showed me one of his creations. A fishing line winder (he 
 
 ## Day 2
 
-We got going a bit quicker this morning and I had promised to look at Kaoru-san's bicycle. It like many bikes in Japan has electric assist. It took some time for me to understand what was happening. The assist was powering while breaking and turning (this is really bad, I personally like to be able to stop). Having not worked on one of these before it was time for some exploration.
+We got going a bit quicker this morning and I had promised to look at Kaoru-san's bicycle. It like many bikes in Japan has electric assist. It took some time for me to understand what was happening. The assist was powering while braking and turning (this is really bad, I personally like to be able to stop). Having not worked on one of these before it was time for some exploration.
 
 ![Eneloop bike](/resources/img/japan-2017/img_20170618_091831.jpg){: style='width:50%; float:right'}
 I wrote a separate [post](/travel/japan-powerbike) on the process of fixing the power assisted bike.
 
-After maybe fixing her bike, we went and got lunch at a Soba restaurant. Soba is buckwheat and there are a ton of things made/flavored with it but primarily it's made into noodles. It was really good and we celebrated father's day and Jin-papa  got a really good looking desert.  After lunch, the whole family went to do some garden work. In the garden they have these cool spinners to scare off birds and the till was really quiet. It was fun to work and talk and really get to know more about their normal lives.
+After maybe fixing her bike, we went and got lunch at a Soba restaurant. Soba is buckwheat and there are a ton of things made/flavored with it but primarily it's made into noodles. It was really good and we celebrated father's day and Jin-papa  got a really good looking dessert.  After lunch, the whole family went to do some garden work. In the garden they have these cool spinners to scare off birds and the till was really quiet. It was fun to work and talk and really get to know more about their normal lives.
 
 ![garden1](/resources/img/japan-2017/img_20170618_110004.jpg){: style='width:50%; float:left'}
 ![garden2](/resources/img/japan-2017/img_20170618_111644.jpg){: style='width:50%; float:right'}
 
 ![spinner](/resources/img/japan-2017/img_20170618_113447.jpg){: style='width:50%; float:right'}
 
-And then very quickly it was time to take me back to Sokendai for one more orientation day. It was really nice staying with them and they were amazing host. とてもたのしかったです(totemo tanoshikatta desu - it was a lot of fun)
+And then very quickly it was time to take me back to Sokendai for one more orientation day. It was really nice staying with them and they were amazing hosts. とてもたのしかったです(totemo tanoshikatta desu - it was a lot of fun)
 
  I hope to get to hang out with them some this summer. Kaoru-mama wants to see bike Polo and we set up a group in the app LINE for us to talk and stay in touch with. Thank you so much Jin-papa, Kaoru-mama, and Kino-chan!!!! ![home stay family](/resources/img/japan-2017/img_20170618_172921.jpg){: style='width:50%; float:right'}

@@ -4,7 +4,7 @@ title: Japanese Hair
 tag: Japan
 category: Travel
 
-excerpt: What happen?
+excerpt: What happened?
 
 ---
 Per Mr. Robberts' request. What do you think happened? I will tell you in the next post but who knows when that will be...

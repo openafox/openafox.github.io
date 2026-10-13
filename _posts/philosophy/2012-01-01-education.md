@@ -1,4 +1,5 @@
 ---
+published: false # unfinished; hidden until written
 layout: post
 title: Education
 tag: Education

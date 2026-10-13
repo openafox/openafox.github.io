@@ -7,7 +7,7 @@ category: Travel
 excerpt: Long days are good for getting stuff done but weekends are fun
 
 ---
-It is common in research labs to work 10-14 hour days (I think I already said this but oh well). I know grad students in the US sometimes do to but there is a difference. Here it seem like they are truly working the whole time (no Facebook...) and the advisor does it too. I don't think it is healthy for me but since I have a lot to do, write my preliminary theses (I have scheduled for 2 weeks after I get back) and learn how to analyze data I have never worked with before, it works out. The added difficulty of it is the 1hr each way commute. The combo is destroying me but I think I am figuring it out some....
+It is common in research labs to work 10-14 hour days (I think I already said this but oh well). I know grad students in the US sometimes do too but there is a difference. Here it seems like they are truly working the whole time (no Facebook...) and the advisor does it too. I don't think it is healthy for me but since I have a lot to do, write my preliminary thesis (I have scheduled for 2 weeks after I get back) and learn how to analyze data I have never worked with before, it works out. The added difficulty of it is the 1hr each way commute. The combo is destroying me but I think I am figuring it out some....
 
 ![commute](/resources/img/japan-2017/img_20170629_121532.jpg){: style='width:50%; float:left'}
 ![commute2](/resources/img/japan-2017/img_20170629_122715.jpg){: style='width:50%; float:right'}
@@ -32,7 +32,7 @@ Friday nights have mostly been for me a relaxation time as I get to my apartment
 ![rain jacket](/resources/img/japan-2017/img_20170624_113334.jpg){: style='width:50%; float:left'}
 ![figurines of you](/resources/img/japan-2017/img_20170624_120718.jpg){: style='width:50%; float:right'}
 
-After lunch at a flying cart restaurant (I have no idea what they are actually called), we went to find Kamrie a sim card. Luckily one of her friends knew where to go. We headed to Shijuku  where all the tech is...  the sim card deal is pretty good $50 for 3gigs and some apps don't count such as line and it worked in a locked version phone.
+After lunch at a flying cart restaurant (I have no idea what they are actually called), we went to find Kamrie a sim card. Luckily one of her friends knew where to go. We headed to Shinjuku  where all the tech is...  the sim card deal is pretty good $50 for 3gigs and some apps don't count such as line and it worked in a locked version phone.
 
 So rewind one second flying cart restaurants are rad. Order what you want 3 items max at a time and quite quickly it comes to you. I presume there are people in the back working their asses off but who knows it's Japan it could all be robots(I really hope it's robots). Oh and it's cheap (lower overhead with no servers).
 
@@ -47,21 +47,25 @@ Kamrie and I then went and met up with Emil and Steve. They work/live right down
 ![Imp palace4](/resources/img/japan-2017/img_20170624_163259.jpg){: style='width:50%; float:right'}
 
 
-Then it was back to the crazyness of Shibuya as it was on Kamrie and my ways home. We stopped for drinks at two different spots (not the Trump but I had to take a picture of how ridiculous it was - gold and mirrors...) Luckily a lot of these places have English menus since it a tourist hot spot. Also of note is that a large number of places are in basements. I wonder if this is for a similar reason to State College, PA - it used to be law. Also went to grill your own quick before I headed to polo, kinda fun...
+Then it was back to the craziness of Shibuya as it was on Kamrie and my ways home. We stopped for drinks at two different spots (not the Trump but I had to take a picture of how ridiculous it was - gold and mirrors...) Luckily a lot of these places have English menus since it's a tourist hot spot. Also of note is that a large number of places are in basements. I wonder if this is for a similar reason to State College, PA - it used to be law. Also went to grill your own quick before I headed to polo, kinda fun...
 
 ![Shibuya street](/resources/img/japan-2017/img_20170624_173257.jpg){: style='width:50%; float:left'}
 ![Trump bar](/resources/img/japan-2017/img_20170624_191453.jpg){: style='width:50%; float:right'}
-![basement bars everwhere](/resources/img/japan-2017/img_20170624_184734.jpg){: style='width:50%; float:left'}
+![basement bars everywhere](/resources/img/japan-2017/img_20170624_184734.jpg){: style='width:50%; float:left'}
 ![grill your own](/resources/img/japan-2017/img_20170624_194314.jpg){: style='width:50%; float:right'}
 
-Then I was off to Polo. Luckily their nubbie night court is really close to my place at the '64 Olympic sight. Its a cool spot  I should probably go explore at some point. The club is fairly small (similar to Corvallis) but they have quite a few newish players. They also have a couple of really good players. It was awesome getting to play with them and hang. A few of them speak pretty good English so it made things way easier. Also most of the on court communication is English so playing is awesome. I am stoked to play with them all summer!!!
+Then I was off to Polo. Luckily their newbie night court is really close to my place at the '64 Olympic site. It's a cool spot  I should probably go explore at some point. The club is fairly small (similar to Corvallis) but they have quite a few newish players. They also have a couple of really good players. It was awesome getting to play with them and hang. A few of them speak pretty good English so it made things way easier. Also most of the on court communication is English so playing is awesome. I am stoked to play with them all summer!!!
 
 ![Polo1](/resources/img/japan-2017/img_20170624_231527.jpg){: style='width:50%; float:left'}
 ![Polo2](/resources/img/japan-2017/img_20170624_213612.jpg){: style='width:50%; float:right'}
 
 I had a nice hour walk home from there but I would get a bike soon from one of the polo players who has his own shop.
 
-Sunday I met up with Kodai-san to go to a museum and a shrine all right downtown Tokyo. Learning about the history of conflict here in Japan and the involvement of imperialism was really interesting. Apparently the US was making it's claim as early as 1850 with many others (Brits, French, Dains) quick to follow. I also never knew why Japan was involved in WW2 and as it turns out it they weren't really, they only declared war on the US. They just really didn't want the Allies (mostly the US) giving supplies to China who they have been in conflict with forever. So they stopped supply ships and then the US stopped supplying Japan and they have no domestic source for a lot of important materials (oil for example) and thus declaration of war.  With no allies Japan was in a battle against time as their resources dwindled. So that all leads me to conclude, even more then I already had, that the dropping of the bomb(twice no less) was purly a show for the USSR.  It makes me sick. Now Japan is more or less a protectorate of the US from China and N Korea.
+Sunday I met up with Kodai-san to go to a museum and a shrine all right downtown Tokyo.
+
+The museum told the story differently than I learned in school, so here's how they presented it (it's the Yūshūkan at Yasukuni Shrine, which is known for a pretty one-sided take):
+
+Learning about the history of conflict here in Japan and the involvement of imperialism was really interesting. Apparently the US was making its claim as early as 1850 with many others (Brits, French, Danes) quick to follow. I also never knew why Japan was involved in WW2 and as it turns out it they weren't really, they only declared war on the US. They just really didn't want the Allies (mostly the US) giving supplies to China who they have been in conflict with forever. So they stopped supply ships and then the US stopped supplying Japan and they have no domestic source for a lot of important materials (oil for example) and thus declaration of war.  With no allies Japan was in a battle against time as their resources dwindled. So that all leads me to conclude, even more than I already had, that the dropping of the bomb(twice no less) was purely a show for the USSR.  It makes me sick. Now Japan is more or less a protectorate of the US from China and N Korea.
 Ok I made that really simple I am not a historian and there is way more to it and there are always multiple sides to a story so take it as you will.  
 
 The shrine was cool and had this amazing flower display. All real!!  
@@ -71,6 +75,6 @@ The shrine was cool and had this amazing flower display. All real!!
 ![shrine flowers](/resources/img/japan-2017/img_20170625_125333.jpg){: style='width:50%; float:left'}
 ![shrine and Kodai](/resources/img/japan-2017/img_20170625_125524.jpg){: style='width:50%; float:right'}
 
-The next week I would be getting trained on more equipment and we they had a party for my arrival. I'll talk about this in the next post...
+The next week I would be getting trained on more equipment and they had a party for my arrival. I'll talk about this in the next post...
 
 

@@ -14,7 +14,7 @@ Shuttle busses took many of us to Tokyo Station and most fellows were on their o
 
 He quickly took me to the appropriate train and we were on our way to おおおかやま (Ookayama) where I would be staying at the international house. Kodai-san speaks very good English and we quickly got talking about all sorts of things mostly to learn about each other. He is the equivalent of a Senior and will be taking a test in August so that he can join the lab as a grad student. The trains were really confusing at first but after a little explanation from Kodai-san I felt like I was starting to get it. Most everything is written in English there are just so many lines and so many people.
 
-Kodai-san took me the whole way to my apartment and then gave me 2hrs to settle in before we would head to the Suzukakedai campus of Tokyo tech where the lab is. Suzukakedai is about 1 hour buy train from Ookayama and includes at minimum one transfer, If you want to make it faster you do 1 more transfer to or from the express train. I know do this commute every weekday and it is when I am writing most of these post.
+Kodai-san took me the whole way to my apartment and then gave me 2hrs to settle in before we would head to the Suzukakedai campus of Tokyo tech where the lab is. Suzukakedai is about 1 hour by train from Ookayama and includes at minimum one transfer, If you want to make it faster you do 1 more transfer to or from the express train. I now do this commute every weekday and it is when I am writing most of these posts.
 
 Once we got to the lab I got to meet a few of the group members (a couple were out of town at the synchrotron source) and was given a quick tour of the labs. Then it was off to dinner with Funakubo-sensei and Kodai-san. 
 
@@ -27,8 +27,8 @@ I was given the option of a fancy restaurant or a casual one. I chose casual bec
 
 
 First pic is some fermented squid (Ika no shiokara), it is very salty and strong tasting. I thought it was ok but I would not ask for it... 
-Then there is a sashimi plate with tuna but also bonito, horse mackerel, squid, and some sort of shellfish (know one seems to know).
-Next is the raw horse. It was actually very good with a little ginger. And then this cooked little fish that was tasty but picking threw the bones was 'fun'. Funakubo-sensei just ate the head right off it and said the bones are small enough you don't need to worry about them.
+Then there is a sashimi plate with tuna but also bonito, horse mackerel, squid, and some sort of shellfish (no one seems to know).
+Next is the raw horse. It was actually very good with a little ginger. And then this cooked little fish that was tasty but picking through the bones was 'fun'. Funakubo-sensei just ate the head right off it and said the bones are small enough you don't need to worry about them.
 
 The thing I didn't get a good picture of was the fresh wasabi and the grinder made with shark back. Definitely the best wasabi I have ever had.
 
