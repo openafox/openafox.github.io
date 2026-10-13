@@ -29,7 +29,7 @@ This game is so much fun to play!
 Check out the [Corvallis Bike Polo Site][polo]!
 
 
-[tour]:http://www.foxbiketour.blogspot.com/
+[tour]:/bike-tour-2012/
 {: target="_blank"}
 [polo]:http://www.corvallisbikepolo.com/
 {: target="_blank"}

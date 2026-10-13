@@ -15,6 +15,19 @@ layout: default
   </article>
 </div>
 
+{% if page.series %}
+  {% assign series_posts = site.posts | where: "series", page.series | reverse %}
+  {% for p in series_posts %}{% if p.url == page.url %}{% assign series_i = forloop.index0 %}{% endif %}{% endfor %}
+  {% assign prev_i = series_i | minus: 1 %}
+  {% assign next_i = series_i | plus: 1 %}
+  <nav class="series-nav">
+    <span>{% if series_i > 0 %}<a href="{{ site.baseurl }}{{ series_posts[prev_i].url }}">&larr; {{ series_posts[prev_i].title }}</a>{% endif %}</span>
+    <a href="{{ site.baseurl }}/{{ page.series }}/">All posts</a>
+    <span>{% if next_i < series_posts.size %}<a href="{{ site.baseurl }}{{ series_posts[next_i].url }}">{{ series_posts[next_i].title }} &rarr;</a>{% endif %}</span>
+  </nav>
+{% endif %}
+
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
