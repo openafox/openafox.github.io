@@ -20,17 +20,21 @@ supply structure and prose in his voice.
    Markdown lines it prints.
 5. **Write `_drafts/<slug>.md`** using the template below. Leave out sections the notes
    have nothing for rather than padding them.
-6. **Report back** briefly: draft path, the list of TODOs, and how to preview:
-   `./serve.sh --drafts` → http://localhost:4000.
+6. **Check it** with the check-post skill (script + judgment read). Fix blockers; list the
+   rest for Austin.
+7. **Commit and push** the draft and its images to `master` (`Draft: <title>`), unless
+   there are blockers. Drafts are public on GitHub but never built into the site.
+8. **Report back** briefly: draft path, check-post flags, the list of TODOs, and how to
+   preview: `./serve.sh --drafts` → http://localhost:4000.
 
 ## Rules
 - **Never invent facts.** No made-up numbers, dates, part names, outcomes, or motives.
   Where a gap matters, write a visible marker: `**TODO:** what size was the bolt?`
 - Keep his wording where his notes already say it well.
-- Drafts stay out of git until `/publish` (the repo is public).
+- The repo is public: never push a draft that hasn't passed check-post.
 
 ## Polishing together
-When he edits a draft or says what to change, apply it, then look at *what kind* of
+When he edits a draft or says what to change, apply it, re-run check-post if content changed, commit and push, then look at *what kind* of
 change it was. If a pattern shows up (cuts intros, prefers fewer headings, more detail on
 failures), propose a one-line addition to "Learned from polishing" in `voice.md`, and add
 it only once he agrees.

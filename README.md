@@ -31,8 +31,8 @@ docker volume rm openafox-gems
 ## Writing a post
 
 With Claude Code, use the project skills: `/new-post` to draft from rough notes,
-`/add-images` to prepare photos, `/publish` to put a draft live, and `/idea` to save an
-idea in `IDEAS.md`. Doing it by hand:
+`/add-images` to prepare photos, `/check-post` to scan for secrets and personal info,
+`/publish` to put a draft live, and `/idea` to save an idea in `IDEAS.md`. Doing it by hand:
 
 
 Create `_posts/<category>/YYYY-MM-DD-slug.md` (or start it in `_drafts/slug.md`):
