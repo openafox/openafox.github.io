@@ -25,23 +25,26 @@ pushed, tell Austin it must be revoked/rotated; deleting it from the file is not
 
 ## 2. Judgment read (you)
 
-Read the post once with these questions and list anything that applies:
+Austin's bar: flag what is **wrong, harmful, or exposes someone**, not what a stranger
+might conceivably misread. He writes candidly in his own voice and keeps his opinions;
+that is the point of the blog. Over-flagging wastes his time.
 
-- **Private people**: anyone besides Austin named or identifiable (full names, photos of
-  faces, where they live/work, kids). Suggest first name only or "a friend" unless he
-  says they're OK with it.
-- **Private details about Austin**: home address or neighborhood, daily routine, travel
-  dates while away, health, finances, family situations.
-- **Work and confidentiality**: employer-internal info, unreleased results, client names,
-  anything under NDA, screenshots showing internal systems or other people's data.
-- **Hurtful or careless content**: stereotypes or jokes about nationality, culture,
-  gender, race, religion, disability, etc.; mocking specific people; slurs. Note: travel
-  posts are where this most often slips in.
-- **Things that could age badly or affect jobs**: political or hot-button statements,
-  drug or heavy drinking references, harsh criticism of named companies or colleagues.
-  These aren't forbidden; just make sure they're deliberate.
-- **Safety**: instructions where a mistake could hurt someone (electrical, chemicals,
-  pressure, lasers) without a warning.
+Flag:
+- **Sensitive info about other people**: contact details, where they live, health, legal
+  or money matters, kids' full names, anything they'd reasonably expect to stay private.
+  Names, friendly descriptions, and backgrounds shared warmly are fine.
+- **Private details about Austin**: home address, routine, travel dates while away,
+  health, finances.
+- **Work confidentiality**: employer-internal info, unreleased results, client names,
+  NDA material, screenshots of internal systems or other people's data.
+- **Demeaning content**: slurs, mocking a person or group, stereotypes used as put-downs.
+- **Factual claims that are wrong** when stated as fact (suggest a source or framing like
+  "the museum presented it as…", not deletion).
+- **Safety**: instructions where a mistake could hurt someone or a system (electrical,
+  chemicals, lasers, disabling security) without a warning.
+
+Don't flag: his opinions or political views, accurate cultural observations, light
+affectionate jokes, drinking/partying, mild profanity, quotes he attributes correctly.
 
 ## Report format
 
@@ -51,8 +54,8 @@ Keep it short. Group by severity, quote the line, suggest an option:
 Blockers (must fix before push)
 - line 42 [secret] `api_key = ...` → remove; revoke the key
 Worth a look
-- line 12 [private person] "Kaoru-san, my homestay mom" → fine if she's OK with it
-- line 30 [tone] "Not Mary Jane…" → deliberate?
+- line 12 [private person] friend's home street named → drop the street?
+- line 30 [fact] "X happened in 1950" → it was 1945; fix or attribute
 Clean: PII scan, images
 ```
 
