@@ -49,12 +49,12 @@ Don’t select a mode on start up; just open your experiment file...
 | Use Higher Free Air Amp (1V) | Use Lower Free Air Amp (0.3V) |
 | Image at < ‘free air’ phase | Image at > ‘free air’ phase |
 | Low Q | High Q |
-| Smaller tip radius (shap tip needed) | Larger tip radius |
+| Smaller tip radius (sharp tip needed) | Larger tip radius |
 | Set $$f$$ -8% $$f_o$$ (left of Resonance) | Set $$f$$ +10% $$f_o$$ (right of Resonance) |
 
 ![AFM Tuning](/resources/img/afm-tuning.svg){: style='width:50%'}
 ![AFM Tip Distance](/resources/img/afm-tip-distance.png){: style='width:50%'}
-Form [NPTEL courses](http://nptel.ac.in/courses/102103044/module3/lec19/4.html){: target="_blank"}
+From [NPTEL courses](http://nptel.ac.in/courses/102103044/module3/lec19/4.html){: target="_blank"}
 
 # Max Band Width (Max Scan Rate)
 
@@ -103,10 +103,10 @@ Turn =
 
 # Deflection
 
-As Shown turn the PD nob:
+As Shown turn the PD knob:
 :Toward the back of the head to make the deflection more negative
 :Toward the front to make more positive
-**DO NOT EVER** force the PD nob - it can cause **serious damage**!
+**DO NOT EVER** force the PD knob - it can cause **serious damage**!
 ![AFM Head](/resources/img/afm-head.png){: width="50%"}
 ![AFM Deflection](/resources/img/afm-deflection.png)
 
@@ -142,7 +142,7 @@ As Shown turn the PD nob:
   * At some point you’ll notice the ZV will no longer quickly become more positive (It may still slowly get more positive)
 6. At this point, the tip is ‘hard’ engaged on the surface
 7. Using the thumb wheel adjust the ZV to ≈50V to achieve 70V after reengage
-8. Withdraw or increase set point to pop tip of surface and lower door
+8. Withdraw or increase set point to pop tip off surface and lower door
 
 # Save your tip!!! - Adjust Gain!
 
