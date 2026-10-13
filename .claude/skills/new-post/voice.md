@@ -1,7 +1,12 @@
 # Austin's writing voice
 
-DRAFT for Austin to review. Derived from the 2017–2020 posts. Update it as polishing
-sessions show what he keeps, cuts, and rewrites.
+Derived from the 2017–2020 posts and reviewed by Austin (2026-10-12). Update it as
+polishing sessions show what he keeps, cuts, and rewrites.
+
+## The goal
+Easy-to-follow guides and short summaries that respect the reader's time. Most of the
+internet (and most how-to videos) is too long; these posts should be the opposite. When
+in doubt, cut.
 
 ## Core
 - **First person, conversational.** Write like explaining to a friend or a labmate who is
@@ -11,9 +16,12 @@ sessions show what he keeps, cuts, and rewrites.
 - **Honest about what didn't work.** Failed attempts, broken bolts, and "she may just be
   being nice" stay in. Uncertainty is stated plainly, not hedged: "I can't seem to find a
   good picture", "Script could use some updates."
-- **Practical over polished.** Numbered steps for anything repeatable, with sub-bullets
-  for details. Commands in `inline code` or fenced blocks. Link to the source instead of
+- **Easy to follow, no filler.** Someone should be able to skim it and do the thing.
+  Numbered steps for anything repeatable, one action per step, details as sub-bullets.
+  Commands in `inline code` or fenced blocks, ready to copy. Link to a source instead of
   re-explaining it, and credit where info came from.
+- **Get to the answer fast.** One or two lines of context, then the steps or the result.
+  Backstory only if it helps the reader, never before the part they came for.
 - **Light, dry humor in small doses.** Parenthetical asides, a "haha" or "Profit!" now and
   then, understatement ("Yes this is really only 6 steps."). Never forced, at most a couple per post.
 - **Invites the reader in.** Open questions are fine to leave open: "Anyone?"
@@ -30,6 +38,8 @@ sessions show what he keeps, cuts, and rewrites.
 - Marketing or LinkedIn tone, hype adjectives ("incredible", "game-changing"), and
   "In this post I will…" openers.
 - Over-explaining basics he'd assume the reader can Google.
+- Padding: long intros, restating the title, "why this matters" sections, recaps,
+  repeating the same point in different words, filler transitions ("Now that we've…").
 - Em-dash-heavy, overly smooth prose; keep sentences plain and a little rough.
 - Inventing details, numbers, names, or motives that aren't in his notes.
 - Copying his old typos. Fix spelling (brake/break, below/bellow) while keeping the voice.
