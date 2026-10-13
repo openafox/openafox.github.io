@@ -34,7 +34,7 @@ Friday nights have mostly been for me a relaxation time as I get to my apartment
 
 After lunch at a flying cart restaurant (I have no idea what they are actually called), we went to find Kamrie a sim card. Luckily one of her friends knew where to go. We headed to Shijuku  where all the tech is...  the sim card deal is pretty good $50 for 3gigs and some apps don't count such as line and it worked in a locked version phone.
 
-So rewind one second flying cart restaurants are rad. Order what you want 3 items max at a time and quite quickly it comes to you. I presume there are people in the back working their asses off but who knows, it could all be robots(I really hope it's robots). Oh and it's cheap (lower overhead with no servers).
+So rewind one second flying cart restaurants are rad. Order what you want 3 items max at a time and quite quickly it comes to you. I presume there are people in the back working their asses off but who knows it's Japan it could all be robots(I really hope it's robots). Oh and it's cheap (lower overhead with no servers).
 
 ![cart restaurant](https://drive.google.com/uc?id=1VDR2bAacHHAe69Rixbr2iRf-MKZTySMZCQ){: style='width:50%; float:left'}
 ![sim card](https://drive.google.com/uc?id=13KUIPR4iYMBSMxhK2gZWk7HWJaFnLHbvRw){: style='width:50%; float:right'}
