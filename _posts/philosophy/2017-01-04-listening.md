@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 10 ways to have a better conversation - Celesete Headlee - TED.
+title: 10 ways to have a better conversation - Celeste Headlee - TED.
 tag: TED
 category: Philosophy
 
-excerpt: My Notes from Celesete's great talk.
+excerpt: My Notes from Celeste's great talk.
 ---
 
 Check out the [TED talk here](http://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation){: target="_blank"}.
@@ -17,7 +17,7 @@ Check out the [TED talk here](http://www.ted.com/talks/celeste_headlee_10_ways_t
 6. Don’t equate your experience with theirs – all experiences are individual – it is NOT about you - Conversations are not promotional opportunities
 7. Try not to repeat yourself – it’s condescending and really boring
 8. Stay out of the weeds - forget the details - leave them out - people care about you nit the details
-9. LISTEN – the most important one – “If your mouth is open you’re not learning” -*Buddha* – “Nobody ever listened his way out of a job” -*Calvin Coolidge* - "most of us don't listen with the intent to understand, we listen with the intent to reply" -*Steven Covey*
+9. LISTEN – the most important one – “If your mouth is open you’re not learning” -*Buddha* – “Nobody ever listened his way out of a job” -*Calvin Coolidge* - "most of us don't listen with the intent to understand, we listen with the intent to reply" -*Stephen Covey*
   * Why we don't:
     : We want to be in control
     : We get distracted - we can think at 2x the speed we talk
