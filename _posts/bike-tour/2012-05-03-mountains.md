@@ -14,7 +14,6 @@ A guy who was camping just down from us gave us some wood last night then this m
   <a href="/resources/img/bike-tour-2012/mountains-01.jpg"><img src="/resources/img/bike-tour-2012/mountains-01.jpg" alt="Mountains, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/mountains-02.jpg"><img src="/resources/img/bike-tour-2012/mountains-02.jpg" alt="Mountains, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/mountains-03.jpg"><img src="/resources/img/bike-tour-2012/mountains-03.jpg" alt="Mountains, photo 3" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/mountains-04.jpg"><img src="/resources/img/bike-tour-2012/mountains-04.jpg" alt="Mountains, photo 4" loading="lazy"></a>
 </div>
 
 ## Comments

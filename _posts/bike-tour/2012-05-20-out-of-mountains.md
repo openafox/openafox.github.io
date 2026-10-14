@@ -15,4 +15,6 @@ We took our time this morning getting ready and left around 1030.  By lunch tim
   <a href="/resources/img/bike-tour-2012/out-of-mountains-01.jpg"><img src="/resources/img/bike-tour-2012/out-of-mountains-01.jpg" alt="Out of the mountains, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/out-of-mountains-02.jpg"><img src="/resources/img/bike-tour-2012/out-of-mountains-02.jpg" alt="Out of the mountains, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/out-of-mountains-03.jpg"><img src="/resources/img/bike-tour-2012/out-of-mountains-03.jpg" alt="Out of the mountains, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/out-of-mountains-04.jpg"><img src="/resources/img/bike-tour-2012/out-of-mountains-04.jpg" alt="Out of the mountains, photo 4" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/out-of-mountains-05.jpg"><img src="/resources/img/bike-tour-2012/out-of-mountains-05.jpg" alt="Out of the mountains, photo 5" loading="lazy"></a>
 </div>

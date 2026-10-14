@@ -13,7 +13,6 @@ After 40 miles into the wind we finally made it to hanksville.  It's a small li
 <div class="photo-grid">
   <a href="/resources/img/bike-tour-2012/civilization-01.jpg"><img src="/resources/img/bike-tour-2012/civilization-01.jpg" alt="Civilization?, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/civilization-02.jpg"><img src="/resources/img/bike-tour-2012/civilization-02.jpg" alt="Civilization?, photo 2" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/civilization-03.jpg"><img src="/resources/img/bike-tour-2012/civilization-03.jpg" alt="Civilization?, photo 3" loading="lazy"></a>
 </div>
 
 ## Comments

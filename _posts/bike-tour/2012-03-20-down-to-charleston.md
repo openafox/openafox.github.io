@@ -16,6 +16,7 @@ After searching our route, finding places to stay, and calling home my phone had
   <a href="/resources/img/bike-tour-2012/down-to-charleston-03.jpg"><img src="/resources/img/bike-tour-2012/down-to-charleston-03.jpg" alt="Down to Charleston, photo 3" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/down-to-charleston-04.jpg"><img src="/resources/img/bike-tour-2012/down-to-charleston-04.jpg" alt="Down to Charleston, photo 4" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/down-to-charleston-05.jpg"><img src="/resources/img/bike-tour-2012/down-to-charleston-05.jpg" alt="Down to Charleston, photo 5" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/down-to-charleston-06.jpg"><img src="/resources/img/bike-tour-2012/down-to-charleston-06.jpg" alt="Down to Charleston, photo 6" loading="lazy"></a>
 </div>
 
 ## Comments

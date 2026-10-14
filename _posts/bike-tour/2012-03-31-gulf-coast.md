@@ -18,6 +18,7 @@ We did about 31 miles today and trail was around 4.
   <a href="/resources/img/bike-tour-2012/gulf-coast-03.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-03.jpg" alt="Gulf coast, photo 3" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/gulf-coast-04.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-04.jpg" alt="Gulf coast, photo 4" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/gulf-coast-05.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-05.jpg" alt="Gulf coast, photo 5" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/gulf-coast-06.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-06.jpg" alt="Gulf coast, photo 6" loading="lazy"></a>
 </div>
 
 ## Comments

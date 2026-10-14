@@ -14,4 +14,6 @@ We will be headed down to the edge of lake Powell this morning and I expect to h
   <a href="/resources/img/bike-tour-2012/into-canyon-01.jpg"><img src="/resources/img/bike-tour-2012/into-canyon-01.jpg" alt="Into the canyon, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/into-canyon-02.jpg"><img src="/resources/img/bike-tour-2012/into-canyon-02.jpg" alt="Into the canyon, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/into-canyon-03.jpg"><img src="/resources/img/bike-tour-2012/into-canyon-03.jpg" alt="Into the canyon, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/into-canyon-04.jpg"><img src="/resources/img/bike-tour-2012/into-canyon-04.jpg" alt="Into the canyon, photo 4" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/into-canyon-05.jpg"><img src="/resources/img/bike-tour-2012/into-canyon-05.jpg" alt="Into the canyon, photo 5" loading="lazy"></a>
 </div>

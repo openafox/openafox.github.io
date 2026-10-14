@@ -14,4 +14,5 @@ The plan was to meet Jim at a bike shop where with any luck we would get a wheel
   <a href="/resources/img/bike-tour-2012/chasing-wheels-01.jpg"><img src="/resources/img/bike-tour-2012/chasing-wheels-01.jpg" alt="Chasing wheels, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/chasing-wheels-02.jpg"><img src="/resources/img/bike-tour-2012/chasing-wheels-02.jpg" alt="Chasing wheels, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/chasing-wheels-03.jpg"><img src="/resources/img/bike-tour-2012/chasing-wheels-03.jpg" alt="Chasing wheels, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/chasing-wheels-04.jpg"><img src="/resources/img/bike-tour-2012/chasing-wheels-04.jpg" alt="Chasing wheels, photo 4" loading="lazy"></a>
 </div>

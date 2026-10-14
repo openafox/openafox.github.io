@@ -16,6 +16,7 @@ Total 38 mi.
   <a href="/resources/img/bike-tour-2012/rain-rain-go-away-01.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-01.jpg" alt="Rain rain go away., photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/rain-rain-go-away-02.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-02.jpg" alt="Rain rain go away., photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/rain-rain-go-away-03.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-03.jpg" alt="Rain rain go away., photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/rain-rain-go-away-04.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-04.jpg" alt="Rain rain go away., photo 4" loading="lazy"></a>
 </div>
 
 ## Comments

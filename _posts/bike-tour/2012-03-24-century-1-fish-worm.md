@@ -15,5 +15,4 @@ This kind of day is one of the reasons why I wanted to do this trip and it feels
 <div class="photo-grid">
   <a href="/resources/img/bike-tour-2012/century-1-fish-worm-01.jpg"><img src="/resources/img/bike-tour-2012/century-1-fish-worm-01.jpg" alt="Century 1 (fish worm), photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/century-1-fish-worm-02.jpg"><img src="/resources/img/bike-tour-2012/century-1-fish-worm-02.jpg" alt="Century 1 (fish worm), photo 2" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/century-1-fish-worm-03.jpg"><img src="/resources/img/bike-tour-2012/century-1-fish-worm-03.jpg" alt="Century 1 (fish worm), photo 3" loading="lazy"></a>
 </div>

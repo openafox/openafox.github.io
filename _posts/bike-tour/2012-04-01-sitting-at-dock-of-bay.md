@@ -22,5 +22,4 @@ In total we did 92 miles today and will be doing a short day up to de soto natio
   <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-06.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-06.jpg" alt="Sitting at the dock of the bay., photo 6" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-07.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-07.jpg" alt="Sitting at the dock of the bay., photo 7" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-08.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-08.jpg" alt="Sitting at the dock of the bay., photo 8" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-09.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-09.jpg" alt="Sitting at the dock of the bay., photo 9" loading="lazy"></a>
 </div>

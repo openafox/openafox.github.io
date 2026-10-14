@@ -14,8 +14,6 @@ Tomorrow we will be joining the gulf shore HHH for trail (Charlie won't be doing
 
 <div class="photo-grid">
   <a href="/resources/img/bike-tour-2012/winging-it-01.jpg"><img src="/resources/img/bike-tour-2012/winging-it-01.jpg" alt="Winging it, photo 1" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/winging-it-02.jpg"><img src="/resources/img/bike-tour-2012/winging-it-02.jpg" alt="Winging it, photo 2" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/winging-it-03.jpg"><img src="/resources/img/bike-tour-2012/winging-it-03.jpg" alt="Winging it, photo 3" loading="lazy"></a>
 </div>
 
 ## Comments

@@ -17,7 +17,6 @@ Tomorrow the plan is to take an easy day and to carbload.
   <a href="/resources/img/bike-tour-2012/one-state-down-01.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-01.jpg" alt="One state down!, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/one-state-down-02.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-02.jpg" alt="One state down!, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/one-state-down-03.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-03.jpg" alt="One state down!, photo 3" loading="lazy"></a>
-  <a href="/resources/img/bike-tour-2012/one-state-down-04.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-04.jpg" alt="One state down!, photo 4" loading="lazy"></a>
 </div>
 
 ## Comments

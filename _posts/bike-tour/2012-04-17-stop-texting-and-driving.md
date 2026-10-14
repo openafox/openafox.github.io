@@ -17,6 +17,7 @@ Ps sorry there arnt any new pics.  I have good service but the internet doesn't
   <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-01.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-01.jpg" alt="Stop texting and driving!, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-02.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-02.jpg" alt="Stop texting and driving!, photo 2" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-03.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-03.jpg" alt="Stop texting and driving!, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-04.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-04.jpg" alt="Stop texting and driving!, photo 4" loading="lazy"></a>
 </div>
 
 ## Comments

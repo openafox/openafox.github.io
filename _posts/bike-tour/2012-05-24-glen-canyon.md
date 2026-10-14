@@ -19,4 +19,5 @@ We had a good night and hit the road by 740. It was mostly down hill now but the
   <a href="/resources/img/bike-tour-2012/glen-canyon-06.jpg"><img src="/resources/img/bike-tour-2012/glen-canyon-06.jpg" alt="Glen canyon, photo 6" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/glen-canyon-07.jpg"><img src="/resources/img/bike-tour-2012/glen-canyon-07.jpg" alt="Glen canyon, photo 7" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/glen-canyon-08.jpg"><img src="/resources/img/bike-tour-2012/glen-canyon-08.jpg" alt="Glen canyon, photo 8" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/glen-canyon-09.jpg"><img src="/resources/img/bike-tour-2012/glen-canyon-09.jpg" alt="Glen canyon, photo 9" loading="lazy"></a>
 </div>

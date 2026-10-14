@@ -15,6 +15,8 @@ I have yet to figure out the next few days and we may end up winging it.
 <div class="photo-grid">
   <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-01.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-01.jpg" alt="Train race / day at the beach, photo 1" loading="lazy"></a>
   <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-02.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-02.jpg" alt="Train race / day at the beach, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-03.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-03.jpg" alt="Train race / day at the beach, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-04.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-04.jpg" alt="Train race / day at the beach, photo 4" loading="lazy"></a>
 </div>
 
 ## Comments
