@@ -13,6 +13,12 @@ We ended up riding 70 miles today and are staying behind a little store.  We ca
 
 Ps sorry there arnt any new pics.  I have good service but the internet doesn't want to work well.  Hopefully tomorrow I will be uploading a bunch.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-01.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-01.jpg" alt="Stop texting and driving!, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-02.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-02.jpg" alt="Stop texting and driving!, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/stop-texting-and-driving-03.jpg"><img src="/resources/img/bike-tour-2012/stop-texting-and-driving-03.jpg" alt="Stop texting and driving!, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

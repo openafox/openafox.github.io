@@ -10,6 +10,13 @@ original_url: https://foxbiketour.blogspot.com/2012/04/green-belt.html
 ---
 Charlie spent the day relaxing while I went exploring.  I didn't track it but I probably did some 15 miles a lot of which was single track mtb trails.  I probably shouldn't have but the trails were nice and no apparent harm was done to my bike.  I also got to do a little climbing.  A nice couple (pic girl belaying guy) let me use some shoes and a harness and attempt the 5.11 they were working on.  It was great to get on some rock again.  I am still blown away that such a nice crags, trails, and river can be right in town.  When I got back we headed for the store and got some steaks, potatoes, and veggies to cook for dinner, and it was good.   We were playing leaving tomorrow by ear do to chance of storms but it looks like we should be ok, so I will not be headed out tonight.  Time to get a good nights rest and get ready to ride toward San Angelo.  I think we will probably end up in llano tomorrow.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/green-belt-01.jpg"><img src="/resources/img/bike-tour-2012/green-belt-01.jpg" alt="The Green belt, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/green-belt-02.jpg"><img src="/resources/img/bike-tour-2012/green-belt-02.jpg" alt="The Green belt, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/green-belt-03.jpg"><img src="/resources/img/bike-tour-2012/green-belt-03.jpg" alt="The Green belt, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/green-belt-04.jpg"><img src="/resources/img/bike-tour-2012/green-belt-04.jpg" alt="The Green belt, photo 4" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

@@ -13,6 +13,13 @@ Today was quite eventful, getting wet multiple times and drenched once.  With t
 Tonight we are camping in the lawn of the united Methodist church in Claxton.  We met Shelby doing some outside work and he hooked us up.  After we got dinner at a place he suggested he came back in his 73' Cutless and we talked for a bit and he gave us the combo to the church so we can use the bathroom. 
 Tomorrow the plan is to take an easy day and to carbload.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/one-state-down-01.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-01.jpg" alt="One state down!, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/one-state-down-02.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-02.jpg" alt="One state down!, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/one-state-down-03.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-03.jpg" alt="One state down!, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/one-state-down-04.jpg"><img src="/resources/img/bike-tour-2012/one-state-down-04.jpg" alt="One state down!, photo 4" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

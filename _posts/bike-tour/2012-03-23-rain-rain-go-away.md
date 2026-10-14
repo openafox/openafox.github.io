@@ -12,6 +12,12 @@ We left pretty late this morning after getting breakfast at Mrs. Rogers and lett
 Tomorrow will be played by ear as we need to get Charlie's package (his credit card he left at Julie's) and we may get a big storm.
 Total 38 mi.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/rain-rain-go-away-01.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-01.jpg" alt="Rain rain go away., photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/rain-rain-go-away-02.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-02.jpg" alt="Rain rain go away., photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/rain-rain-go-away-03.jpg"><img src="/resources/img/bike-tour-2012/rain-rain-go-away-03.jpg" alt="Rain rain go away., photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

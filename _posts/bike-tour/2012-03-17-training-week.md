@@ -15,3 +15,7 @@ We checked out of our place this morning and said good by to my mom and aunt Jea
 We have had a very nice stay in this area and have enjoyed the beaches, we both are excited to hot the rode.
 
 I will get a few pictures up on the Picasa site but you need to remind me...
+
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/training-week-01.jpg"><img src="/resources/img/bike-tour-2012/training-week-01.jpg" alt="Training week, photo 1" loading="lazy"></a>
+</div>

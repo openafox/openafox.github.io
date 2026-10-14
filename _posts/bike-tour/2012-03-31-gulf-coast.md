@@ -12,6 +12,14 @@ We spent the morning sitting in our cheap room waiting for the rain to clear.  
 Thanks Andy and Mark for trying to find us places to stay.  I hope I get to hash with that group again. 
 We did about 31 miles today and trail was around 4.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/gulf-coast-01.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-01.jpg" alt="Gulf coast, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/gulf-coast-02.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-02.jpg" alt="Gulf coast, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/gulf-coast-03.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-03.jpg" alt="Gulf coast, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/gulf-coast-04.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-04.jpg" alt="Gulf coast, photo 4" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/gulf-coast-05.jpg"><img src="/resources/img/bike-tour-2012/gulf-coast-05.jpg" alt="Gulf coast, photo 5" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

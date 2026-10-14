@@ -12,6 +12,12 @@ After riding into Pensacola and getting some food we started to figure out what 
 After killing some more time at the pier and searching the local area we ended up at a budget hotel (none of the hashers were are in town tonight.
 Tomorrow we will be joining the gulf shore HHH for trail (Charlie won't be doing trail) and camping.  And the following day we will again be winging it.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/winging-it-01.jpg"><img src="/resources/img/bike-tour-2012/winging-it-01.jpg" alt="Winging it, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/winging-it-02.jpg"><img src="/resources/img/bike-tour-2012/winging-it-02.jpg" alt="Winging it, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/winging-it-03.jpg"><img src="/resources/img/bike-tour-2012/winging-it-03.jpg" alt="Winging it, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

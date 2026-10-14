@@ -12,6 +12,12 @@ Our amazing host both needed to go to work around 7 this morning but before that
 
 Sorry I can't publish new pictures currently do to poor service.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/oklahoma-where-wind-01.jpg"><img src="/resources/img/bike-tour-2012/oklahoma-where-wind-01.jpg" alt="Oklahoma where the wind..., photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/oklahoma-where-wind-02.jpg"><img src="/resources/img/bike-tour-2012/oklahoma-where-wind-02.jpg" alt="Oklahoma where the wind..., photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/oklahoma-where-wind-03.jpg"><img src="/resources/img/bike-tour-2012/oklahoma-where-wind-03.jpg" alt="Oklahoma where the wind..., photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

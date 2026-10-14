@@ -12,6 +12,12 @@ Perry made us sweet potatoes and pancakes for breakfast, both were awesome.  We
 George did not join us as he was not quite ready to go.
 We crossed multiple bridges including one across the Mississippi and road threw loads of small crawfish lakes.  While along a lot of that, there was a strong head wind that really slowed us down but we still completed our 55 miles by about 3.  George got in around 5 and had taken a slightly different route, 60ish miles, and left at about 11.  I was happy to see him and to see that the front panniers we rigged up for him held up.  We will be parting ways with him tomorrow as we will be heading south of the adventure cycling route.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/windy-crawdad-alley-01.jpg"><img src="/resources/img/bike-tour-2012/windy-crawdad-alley-01.jpg" alt="Windy crawdad alley, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/windy-crawdad-alley-02.jpg"><img src="/resources/img/bike-tour-2012/windy-crawdad-alley-02.jpg" alt="Windy crawdad alley, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/windy-crawdad-alley-03.jpg"><img src="/resources/img/bike-tour-2012/windy-crawdad-alley-03.jpg" alt="Windy crawdad alley, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

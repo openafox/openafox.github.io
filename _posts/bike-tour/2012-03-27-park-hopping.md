@@ -12,6 +12,13 @@ After saying good bye to our new friends this morning we headed for Kolomoki Mou
 We did really well getting going, only taking an hour to cook, eat, and pack up, so we hit the rode before 9 and the morning was beautiful.  By lunch time we had done 50 miles and tried stopping at a rodeside stand that advertised a ton of stuff but had almost none of it, so we had to ride 10 more miles to town.  We got to the park at 5 and have been relaxing since.  Today we totaled 88 miles. 
 I have no service here so this may be put up tomorrow and tomorrow we will be winging it seeing as our next place to stay is over 120 miles away.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/park-hopping-01.jpg"><img src="/resources/img/bike-tour-2012/park-hopping-01.jpg" alt="Park hopping, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/park-hopping-02.jpg"><img src="/resources/img/bike-tour-2012/park-hopping-02.jpg" alt="Park hopping, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/park-hopping-03.jpg"><img src="/resources/img/bike-tour-2012/park-hopping-03.jpg" alt="Park hopping, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/park-hopping-04.jpg"><img src="/resources/img/bike-tour-2012/park-hopping-04.jpg" alt="Park hopping, photo 4" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

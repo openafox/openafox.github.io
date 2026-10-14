@@ -12,6 +12,12 @@ Ava made some breakfast tacos and wished us the best.  We again left a great ho
 It got really hot today but luckily the wind was not so bad.  We stopped quite a bit but made good time.  The whole way was lined with oil wells and windmills it was kind of unbelievable. Once in post some 67 miles later we stopped at the dollar general and when I got out Charlie was talking to Trey.  He offered to let us stay with his family and we could have his basement to sleep in.  He has a really nice house an family and we spent the evening relaxing  talking, and playing pool.  Trey is amazing he even ran out and got us steaks.
 Tomorrow we head to Lubbock.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/energy-highway-01.jpg"><img src="/resources/img/bike-tour-2012/energy-highway-01.jpg" alt="Energy highway, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/energy-highway-02.jpg"><img src="/resources/img/bike-tour-2012/energy-highway-02.jpg" alt="Energy highway, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/energy-highway-03.jpg"><img src="/resources/img/bike-tour-2012/energy-highway-03.jpg" alt="Energy highway, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

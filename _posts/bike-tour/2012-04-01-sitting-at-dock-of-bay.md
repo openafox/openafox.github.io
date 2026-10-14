@@ -12,3 +12,15 @@ Well not for long.  We got up early and hit the road hoping to catch the 9:30 f
 The highlight of the sights were some off shore oil rigs and nice water ways while going over some large bridges.
 When we got into Biloxi, Ms, we relaxed for a bit and then headed out for dinner at the fillin station (had some raw oysters and met some other friends). 
 In total we did 92 miles today and will be doing a short day up to de soto national forest tomorrow.
+
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-01.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-01.jpg" alt="Sitting at the dock of the bay., photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-02.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-02.jpg" alt="Sitting at the dock of the bay., photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-03.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-03.jpg" alt="Sitting at the dock of the bay., photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-04.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-04.jpg" alt="Sitting at the dock of the bay., photo 4" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-05.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-05.jpg" alt="Sitting at the dock of the bay., photo 5" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-06.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-06.jpg" alt="Sitting at the dock of the bay., photo 6" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-07.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-07.jpg" alt="Sitting at the dock of the bay., photo 7" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-08.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-08.jpg" alt="Sitting at the dock of the bay., photo 8" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-09.jpg"><img src="/resources/img/bike-tour-2012/sitting-at-dock-of-bay-09.jpg" alt="Sitting at the dock of the bay., photo 9" loading="lazy"></a>
+</div>

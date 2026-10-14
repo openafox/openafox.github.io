@@ -10,6 +10,12 @@ original_url: https://foxbiketour.blogspot.com/2012/05/i-bought-van.html
 ---
 Well we decided we had enough of the wind and were looking at our options to get to aunt Barb's.  Just down the road from Lyman's was a 84' dodge van for sale.  We talked to Lanny and got his price down.  It is in great shape and today we got some work done on it as well as split wood for Lyman.  We have to wait untill Tuesday to get the van licensed but I have the title and Lanny has my bike because we owe him some more money yet (you can only get so much out of an atm).  Tomorrow we will be doing some more work on the van, it is great having Charlie here to teach me and help me fix the van up.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/i-bought-van-01.jpg"><img src="/resources/img/bike-tour-2012/i-bought-van-01.jpg" alt="I bought a van!, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/i-bought-van-02.jpg"><img src="/resources/img/bike-tour-2012/i-bought-van-02.jpg" alt="I bought a van!, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/i-bought-van-03.jpg"><img src="/resources/img/bike-tour-2012/i-bought-van-03.jpg" alt="I bought a van!, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

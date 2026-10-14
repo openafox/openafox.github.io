@@ -14,6 +14,13 @@ While on that loop I almost hit a turtle and hit the breaks Charlie didn't get t
 There were lots crawfish farms and the pic is of the boat they use.
 We ended up doing 71 miles and are at lake view park. We ended up talking to some of the kids who work here and their friends, and relaxed with them a lot of the evening.  The place is packed but nice. We also met a guy from Colorado, we may visit. A kid came and tried to give us money that his dad said to give us (we must look poor, haha), nice people.  Tomorrow we head down 190 to another camp ground.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/dislocated-01.jpg"><img src="/resources/img/bike-tour-2012/dislocated-01.jpg" alt="Dislocated, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/dislocated-02.jpg"><img src="/resources/img/bike-tour-2012/dislocated-02.jpg" alt="Dislocated, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/dislocated-03.jpg"><img src="/resources/img/bike-tour-2012/dislocated-03.jpg" alt="Dislocated, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/dislocated-04.jpg"><img src="/resources/img/bike-tour-2012/dislocated-04.jpg" alt="Dislocated, photo 4" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

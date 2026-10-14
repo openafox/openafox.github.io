@@ -90,3 +90,17 @@
   margin: 0;
   border-radius: 0;
 }
+
+// Grid of photo thumbnails; each links to the full image
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: .5rem;
+  margin: 1.5rem 0;
+  img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    margin: 0;
+  }
+}

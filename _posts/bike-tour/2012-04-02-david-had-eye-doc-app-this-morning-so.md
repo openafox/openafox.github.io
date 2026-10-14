@@ -12,6 +12,12 @@ David had an eye doc app this morning so we waited for him to get back to see if
 At the end of the day we rode 65 miles and were caught in the rain looking for a place to stay.  We ended up paying 10 bucks to stay in the bandstand at a redneck rv park.
 Tomorrow we get our mail resupply pickup.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-01.jpg"><img src="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-01.jpg" alt="Inspiration, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-02.jpg"><img src="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-02.jpg" alt="Inspiration, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-03.jpg"><img src="/resources/img/bike-tour-2012/david-had-eye-doc-app-this-morning-so-03.jpg" alt="Inspiration, photo 3" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

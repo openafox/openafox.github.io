@@ -12,6 +12,11 @@ We made it down to Debbie and Ray's after 76 miles running beside trains all day
 We went to Henderson state park beach and the sand and water was just amazing.  Apparently when it is less windy the water is even better. 
 I have yet to figure out the next few days and we may end up winging it.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-01.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-01.jpg" alt="Train race / day at the beach, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/train-race-day-at-beach-02.jpg"><img src="/resources/img/bike-tour-2012/train-race-day-at-beach-02.jpg" alt="Train race / day at the beach, photo 2" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*

@@ -13,6 +13,13 @@ After relaxing a few hours we went hunting for food to no prevail, 6 miles with 
 Oh yeah and Charlie's shoulder is much better today; Don will look at it tomorrow and let us know if there is any serious damage.
 Well overall we were able to enjoy our day and have reflected on how good our trip has been and how everyone's prayers must be helping.
 
+<div class="photo-grid">
+  <a href="/resources/img/bike-tour-2012/easter-sunday-01.jpg"><img src="/resources/img/bike-tour-2012/easter-sunday-01.jpg" alt="Easter Sunday, photo 1" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/easter-sunday-02.jpg"><img src="/resources/img/bike-tour-2012/easter-sunday-02.jpg" alt="Easter Sunday, photo 2" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/easter-sunday-03.jpg"><img src="/resources/img/bike-tour-2012/easter-sunday-03.jpg" alt="Easter Sunday, photo 3" loading="lazy"></a>
+  <a href="/resources/img/bike-tour-2012/easter-sunday-04.jpg"><img src="/resources/img/bike-tour-2012/easter-sunday-04.jpg" alt="Easter Sunday, photo 4" loading="lazy"></a>
+</div>
+
 ## Comments
 
 *From the original blog.*
