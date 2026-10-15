@@ -104,3 +104,24 @@
     margin: 0;
   }
 }
+
+// Floated images at the end of a post must not spill into the nav/related sections
+.post article::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.series-nav,
+.related {
+  clear: both;
+}
+
+// Phones: stack the series nav instead of three cramped columns
+@media (max-width: 40em) {
+  .series-nav {
+    flex-direction: column;
+    gap: .5rem;
+    > a { order: -1; text-align: center; }
+    span:empty { display: none; }
+  }
+}
