@@ -48,7 +48,9 @@ python3 -I .claude/skills/photo-review/photo_review.py serve --work <work>
 
 Run it in the background, open http://127.0.0.1:8765/ in the browser pane, and tell the person:
 
-- Each post shows its title, dates, where, people/places mentioned, and the full text.
+- Each post shows its title, dates, where, and people/places mentioned, with the **post or draft
+  text beside its photos**, read live from the file (reload after editing a draft). Plan `text`
+  appears as fold-out **Notes**; `**TODO…**` markers are highlighted.
 - **On the blog:** ◀ / ▶ move a photo to the previous/next post, ✕ removes it.
 - **More from this time:** the post's other photos; **+ add** puts one on the blog.
 - **Orange** = taken before 11 am (often "leaving the host's house" shots that belong to the

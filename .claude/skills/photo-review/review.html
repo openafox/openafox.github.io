@@ -39,6 +39,16 @@
   .pool .ph img { cursor: pointer; }
   .legend span { display: inline-block; width: 12px; height: 12px; border-radius: 2px; vertical-align: -2px; margin: 0 4px 0 10px; }
   body.morning-only .ph:not(.morning) { display: none; }
+  .cols { display: grid; grid-template-columns: minmax(280px, 40%) 1fr; gap: 16px; align-items: start; }
+  .cols.nodraft { grid-template-columns: 1fr; }
+  .draft { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 10px 14px;
+           max-height: 70vh; overflow: auto; position: sticky; top: 56px; font-size: 13.5px; }
+  .draft h3 { font-size: 14px; margin: 12px 0 4px; } .draft h3:first-child { margin-top: 0; }
+  .draft p { margin: 6px 0; } .draft ul { margin: 6px 0; padding-left: 18px; }
+  .draft blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); }
+  .draft .todo { background: #fff3a8; color: #222; padding: 0 3px; border-radius: 2px; }
+  .draft .label { font-size: 11px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); margin-bottom: 4px; }
+  @media (max-width: 800px) { .cols { grid-template-columns: 1fr; } .draft { position: static; max-height: none; } }
   dialog { border: 0; padding: 0; background: transparent; max-width: 95vw; }
   dialog img { max-width: 95vw; max-height: 90vh; display: block; border-radius: 4px; }
   dialog::backdrop { background: rgba(0,0,0,.8); }
@@ -56,7 +66,7 @@
 <main id="main"></main>
 <dialog id="zoom"><img alt=""></dialog>
 <script>
-let DATA, placement, auto, order;
+let DATA, placement, auto, order; const DRAFTS = {};
 const MORNING = 11;
 
 async function load() {
@@ -84,6 +94,25 @@ function setStatus(t, ok) { const s = document.getElementById('status'); s.textC
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const when = t => t ? new Date(t).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) + ' ' + t.slice(11, 16) : 'no date';
 const byTime = (a, b) => (DATA.photos[a].t || '~').localeCompare(DATA.photos[b].t || '~');
+function md(src) {
+  const inline = t => esc(t).replace(/\*\*(TODO[^*]*)\*\*/g, '<span class="todo">$1</span>')
+    .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\*(.+?)\*/g, '<i>$1</i>')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+  const out = []; let list = false, quote = [];
+  const flushQ = () => { if (quote.length) { out.push('<blockquote>' + inline(quote.join(' ')) + '</blockquote>'); quote = []; } };
+  for (const raw of src.split('\n')) {
+    const line = raw.trimEnd();
+    if (/^>\s?/.test(line)) { quote.push(line.replace(/^>\s?/, '')); continue; } else flushQ();
+    if (/^-\s+/.test(line)) { if (!list) { out.push('<ul>'); list = true; } out.push('<li>' + inline(line.replace(/^-\s+/, '')) + '</li>'); continue; }
+    if (list && /^\s+\S/.test(line)) { out[out.length - 1] = out[out.length - 1].replace(/<\/li>$/, ' ' + inline(line.trim()) + '</li>'); continue; }
+    if (list) { out.push('</ul>'); list = false; }
+    if (/^#{1,6}\s/.test(line)) out.push('<h3>' + inline(line.replace(/^#+\s/, '')) + '</h3>');
+    else if (/^!\[/.test(line) || /^\{:/.test(line)) continue;
+    else if (line.trim()) out.push('<p>' + inline(line) + '</p>');
+  }
+  flushQ(); if (list) out.push('</ul>');
+  return out.join('').replace(/<\/p><p>/g, ' ');
+}
 const placedSet = () => new Set(Object.values(placement).flat());
 
 function move(id, from, dir) {
@@ -131,9 +160,17 @@ function render(focusId) {
     const dateInfo = p.published ? 'posted ' + p.published.slice(0, 10) : p.start ? p.start + (p.end && p.end !== p.start ? ' → ' + p.end : '') : '';
     s.innerHTML = `<h2>${esc(p.title)} <small>${esc(dateInfo)}</small></h2>
       <div class="meta">${p.where ? '<b>Where:</b> ' + esc(p.where) + ' · ' : ''}${p.mentions && p.mentions.length ? '<b>Mentions:</b> ' + esc(p.mentions.join(', ')) : ''}</div>
-      ${p.text ? `<details><summary>Read post</summary><p>${esc(p.text)}</p></details>` : ''}
-      <div class="grid onblog"></div>
-      <details class="pool"><summary>More from this time (${pool.length})</summary><div class="grid"></div></details>`;
+      <div class="cols${p.slug ? '' : ' nodraft'}">
+        ${p.slug ? `<div class="draft"><div class="label">${p.file ? esc(p.file) : 'Post'}</div><div class="body">${p.text ? '<p>' + esc(p.text) + '</p>' : '<p class="empty">Loading…</p>'}</div>
+          ${p.notes ? `<details><summary>Notes</summary><p>${esc(p.notes)}</p></details>` : ''}</div>` : ''}
+        <div><div class="grid onblog"></div>
+        <details class="pool"><summary>More from this time (${pool.length})</summary><div class="grid"></div></details></div>
+      </div>`;
+    if (p.slug && p.file) {
+      const box = s.querySelector('.draft .body');
+      if (DRAFTS[p.slug] !== undefined) box.innerHTML = DRAFTS[p.slug] || '<p class="empty">No text yet.</p>';
+      else fetch('post/' + p.slug).then(r => r.text()).then(t => { DRAFTS[p.slug] = t.trim() ? md(t) : ''; box.innerHTML = DRAFTS[p.slug] || '<p class="empty">No text yet.</p>'; });
+    }
     const g = s.querySelector('.onblog');
     if (p.slug) {
       const ids = (placement[p.slug] || []);

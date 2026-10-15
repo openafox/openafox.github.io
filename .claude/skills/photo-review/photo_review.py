@@ -136,7 +136,7 @@ def load_posts(args):
             text = p.get('text', '')
             posts.append({'slug': p['slug'], 'title': p.get('title', p['slug']), 'file': p.get('file', ''),
                           'start': p['start'], 'end': p.get('end', p['start']), 'where': p.get('where', ''),
-                          'text': text, 'mentions': p.get('mentions') or mentions(text)})
+                          'notes': text, 'text': '', 'mentions': p.get('mentions') or mentions(text)})
         posts.sort(key=lambda p: p['start'])
         return posts
     for f in sorted(glob.glob(args.posts)):
@@ -258,6 +258,23 @@ def serve(args):
         def end_headers(self):
             self.send_header('Cache-Control', 'no-store')
             super().end_headers()
+
+        def do_GET(self):
+            if self.path.startswith('/post/'):
+                slug = self.path[len('/post/'):].split('?')[0]
+                posts = {p['slug']: p for p in json.load(open(os.path.join(work, 'data.json')))['posts']}
+                f = posts.get(slug, {}).get('file')
+                path = f and os.path.join(REPO, f)
+                body = read_front_matter(path)[1] if path and os.path.exists(path) else ''
+                body = re.sub(r'<div class="photo-grid">.*?</div>\n?', '', body, flags=re.S)
+                out = body.encode()
+                self.send_response(200)
+                self.send_header('Content-Type', 'text/plain; charset=utf-8')
+                self.send_header('Content-Length', str(len(out)))
+                self.end_headers()
+                self.wfile.write(out)
+                return
+            super().do_GET()
 
         def do_POST(self):
             if self.path != '/state':
