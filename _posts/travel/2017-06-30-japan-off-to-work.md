@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: Off to Work
 tag: Japan

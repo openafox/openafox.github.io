@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: Attempting to fix a power assisted eneloop bike
 tag:

@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: Meeting the lab and a view of Tokyo
 tag: Japan

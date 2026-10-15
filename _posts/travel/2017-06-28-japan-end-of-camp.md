@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: The End of Adult Summer Camp
 tag: Japan
