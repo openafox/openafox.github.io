@@ -40,7 +40,7 @@ What went wrong along the way (the useful part):
   batches into short-lived helper agents fixed most of that.
 
 I turned the whole thing into scripts plus a Claude skill so nobody else has to figure this out:
-**TODO: repo link** (github.com/openafox/google-photos-partner-cleanup). The scripts work in the browser
+[openafox/google-photos-partner-cleanup](https://github.com/openafox/google-photos-partner-cleanup). The scripts work in the browser
 console without any AI.
 
 **TODO:** did it actually free up storage once Trash emptied? How much?
@@ -51,5 +51,5 @@ console without any AI.
 devices…) One section each, same pattern: what the mess was, what fixed it, what broke.
 
 ## Files and links
-- Scripts + Claude skill: **TODO: repo link**
+- Scripts + Claude skill: [openafox/google-photos-partner-cleanup](https://github.com/openafox/google-photos-partner-cleanup)
 - [Original Reddit workaround](https://www.reddit.com/r/googlephotos/comments/jhn6ym/can_you_delete_photos_from_partner_sharing/)
