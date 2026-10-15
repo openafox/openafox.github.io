@@ -22,7 +22,8 @@ layout: default
   {% assign next_i = series_i | plus: 1 %}
   <nav class="series-nav">
     <span>{% if series_i > 0 %}<a href="{{ site.baseurl }}{{ series_posts[prev_i].url }}">&larr; {{ series_posts[prev_i].title }}</a>{% endif %}</span>
-    <a href="{{ site.baseurl }}/{{ page.series }}/">All posts</a>
+    {% assign series_info = site.data.series[page.series] %}
+    <a href="{{ site.baseurl }}{% if series_info %}{{ series_info.url }}{% else %}/{{ page.series }}/{% endif %}">All {{ series_posts.size }} posts{% if series_info %} &middot; {{ series_info.title }}{% endif %}</a>
     <span>{% if next_i < series_posts.size %}<a href="{{ site.baseurl }}{{ series_posts[next_i].url }}">{{ series_posts[next_i].title }} &rarr;</a>{% endif %}</span>
   </nav>
 {% endif %}
