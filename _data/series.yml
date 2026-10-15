@@ -1,0 +1,8 @@
+# Posts with `series: <key>` are grouped under one entry on the tags/categories pages
+# and get prev/next navigation. `url` is the series' index page.
+bike-tour-2012:
+  title: Circle America Bike Tour
+  url: /bike-tour-2012/
+japan-2017:
+  title: Summer in Japan 2017
+  url: /japan-2017/

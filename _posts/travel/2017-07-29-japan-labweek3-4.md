@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: Two good weekends and really getting into my work
 tag: Japan

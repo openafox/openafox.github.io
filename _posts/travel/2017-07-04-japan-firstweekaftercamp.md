@@ -1,4 +1,5 @@
 ---
+series: japan-2017
 layout: post
 title: First week in the lab + weekend fun
 tag: Japan

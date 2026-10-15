@@ -1,0 +1,30 @@
+{% comment %}
+  List posts, collapsing each series into a single entry linking to its index page.
+  Usage: {% include post-list.html posts=some_posts %}
+{% endcomment %}
+{% assign shown_series = "|" %}
+<ul class="tags-expo-posts">
+  {% for post in include.posts %}
+    {% if post.series and site.data.series[post.series] %}
+      {% assign marker = "|" | append: post.series | append: "|" %}
+      {% unless shown_series contains marker %}
+        {% assign shown_series = shown_series | append: post.series | append: "|" %}
+        {% assign series = site.data.series[post.series] %}
+        {% assign series_posts = site.posts | where: "series", post.series %}
+        <a class="post-title" href="{{ site.baseurl }}{{ series.url }}">
+          <li>
+            {{ series.title }}
+            <small class="post-date">{{ series_posts.size }} posts &middot; {{ series_posts.last.date | date: "%b %Y" }} &ndash; {{ series_posts.first.date | date: "%b %Y" }}</small>
+          </li>
+        </a>
+      {% endunless %}
+    {% else %}
+      <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+        <li>
+          {{ post.title }}
+          <small class="post-date">{{ post.date | date_to_string }}</small>
+        </li>
+      </a>
+    {% endif %}
+  {% endfor %}
+</ul>
