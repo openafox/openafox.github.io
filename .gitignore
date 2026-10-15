@@ -56,3 +56,6 @@ Gemfile.lock
 
 # python bytecode
 __pycache__/
+
+# private raw notes (journals, transcriptions) used to draft posts
+_notes/

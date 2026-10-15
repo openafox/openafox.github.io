@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Photo review</title>
+<style>
+  :root { --bg:#fafafa; --card:#fff; --ink:#222; --muted:#666; --line:#e3e3e3; --accent:#2a7ae2;
+          --ok:#1a7f37; --morning:#e8a33d; --morningbg:#fff8ec; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16181b; --card:#1f2226; --ink:#e8e8e8; --muted:#9aa0a6; --line:#33373c;
+            --accent:#6aa5ff; --ok:#3fb950; --morning:#d29922; --morningbg:#2a2416; }
+  }
+  * { box-sizing: border-box; }
+  body { font: 14px/1.45 -apple-system, system-ui, sans-serif; margin: 0; background: var(--bg); color: var(--ink); }
+  header { position: sticky; top: 0; z-index: 2; background: var(--card); border-bottom: 1px solid var(--line);
+           padding: 10px 16px; display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; }
+  header b { font-size: 16px; }
+  .status { color: var(--muted); }
+  .status.saved { color: var(--ok); }
+  label.toggle { color: var(--muted); cursor: pointer; }
+  section { padding: 12px 16px; border-bottom: 1px solid var(--line); }
+  h2 { font-size: 15px; margin: 0; }
+  h2 small { color: var(--muted); font-weight: normal; }
+  .meta { color: var(--muted); font-size: 13px; margin: 3px 0 6px; }
+  .meta b { color: var(--ink); font-weight: 600; }
+  details { font-size: 13px; margin: 4px 0 8px; }
+  summary { cursor: pointer; color: var(--accent); }
+  details p { max-width: 760px; margin: 6px 0; color: var(--muted); }
+  .grid { display: flex; flex-wrap: wrap; gap: 8px; min-height: 24px; }
+  .empty { color: var(--muted); font-style: italic; }
+  .ph { width: 168px; background: var(--card); border: 2px solid var(--line); border-radius: 6px; padding: 4px; font-size: 12px; }
+  .ph.morning { border-color: var(--morning); background: var(--morningbg); }
+  .ph.moved { outline: 3px solid var(--accent); outline-offset: 1px; }
+  .ph img { width: 100%; height: 112px; object-fit: cover; border-radius: 3px; display: block; cursor: zoom-in; }
+  .ph .row { display: flex; justify-content: space-between; align-items: center; gap: 4px; margin-top: 4px; }
+  .ph button { font: inherit; font-size: 12px; padding: 1px 6px; cursor: pointer; }
+  .pool .ph { opacity: .7; } .pool .ph:hover { opacity: 1; }
+  .pool .ph img { cursor: pointer; }
+  .legend span { display: inline-block; width: 12px; height: 12px; border-radius: 2px; vertical-align: -2px; margin: 0 4px 0 10px; }
+  body.morning-only .ph:not(.morning) { display: none; }
+  dialog { border: 0; padding: 0; background: transparent; max-width: 95vw; }
+  dialog img { max-width: 95vw; max-height: 90vh; display: block; border-radius: 4px; }
+  dialog::backdrop { background: rgba(0,0,0,.8); }
+</style>
+</head>
+<body>
+<header>
+  <b>Photo review</b>
+  <span id="count"></span>
+  <span class="legend"><span style="background:var(--morningbg);border:2px solid var(--morning)"></span>before 11 am
+    <span style="outline:3px solid var(--accent);background:var(--card)"></span>moved from its own day</span>
+  <label class="toggle"><input type="checkbox" id="morningOnly"> show only before-11 am</label>
+  <span class="status" id="status">Loading…</span>
+</header>
+<main id="main"></main>
+<dialog id="zoom"><img alt=""></dialog>
+<script>
+let DATA, placement, auto, order;
+const MORNING = 11;
+
+async function load() {
+  const [d, s] = await Promise.all([fetch('data.json').then(r => r.json()), fetch('state.json').then(r => r.json())]);
+  DATA = d; placement = s.placement; auto = s.auto || {};
+  order = DATA.posts.map(p => p.slug);
+  render();
+  setStatus(s.saved ? 'Last saved ' + s.saved.replace('T', ' ') : 'Changes save automatically', true);
+}
+
+let saveTimer;
+function save() {
+  setStatus('Saving…');
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(async () => {
+    try {
+      const r = await fetch('state', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+                                       body: JSON.stringify({ placement }) });
+      setStatus(r.ok ? 'Saved ✓' : 'Save failed: is the server still running?', r.ok);
+    } catch (e) { setStatus('Save failed: is the server still running?'); }
+  }, 300);
+}
+function setStatus(t, ok) { const s = document.getElementById('status'); s.textContent = t; s.className = 'status' + (ok ? ' saved' : ''); }
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const when = t => t ? new Date(t).toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) + ' ' + t.slice(11, 16) : 'no date';
+const byTime = (a, b) => (DATA.photos[a].t || '~').localeCompare(DATA.photos[b].t || '~');
+const placedSet = () => new Set(Object.values(placement).flat());
+
+function move(id, from, dir) {
+  const i = order.indexOf(from) + dir;
+  if (i < 0 || i >= order.length) return;
+  placement[from] = placement[from].filter(x => x !== id);
+  const to = order[i];
+  placement[to] = [...(placement[to] || []), id].sort(byTime);
+  save(); render(id);
+}
+function remove(id, from) { placement[from] = placement[from].filter(x => x !== id); save(); render(); }
+function add(id, to) { placement[to] = [...(placement[to] || []), id].sort(byTime); save(); render(id); }
+
+function card(ph, slug, pi, placed) {
+  const hr = ph.t ? +ph.t.slice(11, 13) : 12;
+  const d = document.createElement('div');
+  d.className = 'ph' + (hr < MORNING ? ' morning' : '') + (placed && ph.home && ph.home !== slug ? ' moved' : '');
+  d.dataset.id = ph.id;
+  const img = `<img src="${ph.thumb}" loading="lazy" alt="" title="${esc(ph.name)}">`;
+  if (placed) {
+    d.innerHTML = img + `<div class="row"><button title="Move to previous post" ${pi === 0 ? 'disabled' : ''}>◀</button>
+      <span>${when(ph.t)}</span><button title="Remove from blog">✕</button>
+      <button title="Move to next post" ${pi === order.length - 1 ? 'disabled' : ''}>▶</button></div>`;
+    const [prev, rm, next] = d.querySelectorAll('button');
+    prev.onclick = () => move(ph.id, slug, -1); next.onclick = () => move(ph.id, slug, 1); rm.onclick = () => remove(ph.id, slug);
+    d.querySelector('img').onclick = () => zoom(ph);
+  } else {
+    d.innerHTML = img + `<div class="row"><span>${when(ph.t)}</span><button title="Add to this post">+ add</button></div>`;
+    d.querySelector('button').onclick = () => add(ph.id, slug);
+    d.querySelector('img').onclick = () => zoom(ph);
+  }
+  return d;
+}
+function zoom(ph) { const z = document.getElementById('zoom'); z.querySelector('img').src = ph.thumb; z.showModal(); }
+document.getElementById('zoom').onclick = e => e.currentTarget.close();
+document.getElementById('morningOnly').onchange = e => document.body.classList.toggle('morning-only', e.target.checked);
+
+function render(focusId) {
+  const main = document.getElementById('main'); main.innerHTML = '';
+  const placed = placedSet();
+  const groups = [...DATA.posts, { slug: null, title: 'Unsorted (no date or outside every post)', text: '', mentions: [] }];
+  groups.forEach((p, pi) => {
+    const s = document.createElement('section');
+    const pool = Object.values(DATA.photos).filter(ph => ph.home === p.slug && !placed.has(ph.id)).sort((a, b) => byTime(a.id, b.id));
+    const dateInfo = p.published ? 'posted ' + p.published.slice(0, 10) : p.start ? p.start + (p.end && p.end !== p.start ? ' → ' + p.end : '') : '';
+    s.innerHTML = `<h2>${esc(p.title)} <small>${esc(dateInfo)}</small></h2>
+      <div class="meta">${p.where ? '<b>Where:</b> ' + esc(p.where) + ' · ' : ''}${p.mentions && p.mentions.length ? '<b>Mentions:</b> ' + esc(p.mentions.join(', ')) : ''}</div>
+      ${p.text ? `<details><summary>Read post</summary><p>${esc(p.text)}</p></details>` : ''}
+      <div class="grid onblog"></div>
+      <details class="pool"><summary>More from this time (${pool.length})</summary><div class="grid"></div></details>`;
+    const g = s.querySelector('.onblog');
+    if (p.slug) {
+      const ids = (placement[p.slug] || []);
+      if (!ids.length) g.innerHTML = '<span class="empty">No photos on the blog for this post.</span>';
+      ids.forEach(id => g.appendChild(card(DATA.photos[id], p.slug, pi, true)));
+    } else g.remove();
+    const pg = s.querySelector('.pool .grid');
+    if (p.slug) pool.forEach(ph => pg.appendChild(card(ph, p.slug, pi, false)));
+    else {
+      // unsorted photos can be added to any post via a picker
+      pool.forEach(ph => {
+        const d = card(ph, order[0], 0, false);
+        const sel = document.createElement('select');
+        sel.innerHTML = '<option value="">add to…</option>' + DATA.posts.map(q => `<option value="${q.slug}">${esc(q.title)}</option>`).join('');
+        sel.onchange = () => sel.value && add(ph.id, sel.value);
+        d.querySelector('.row').replaceChildren(document.createTextNode(when(ph.t)), sel);
+        pg.appendChild(d);
+      });
+      if (!pool.length) { s.remove(); return; }
+    }
+    main.appendChild(s);
+  });
+  const n = placed.size, moved = Object.entries(placement).reduce((a, [slug, ids]) => a + ids.filter(i => DATA.photos[i].home && DATA.photos[i].home !== slug).length, 0);
+  document.getElementById('count').textContent = `${n} on the blog · ${moved} moved`;
+  if (focusId) { const el = document.querySelector(`.onblog [data-id="${focusId}"]`); el && el.scrollIntoView({ block: 'center' }); }
+}
+load().catch(e => setStatus('Could not load data.json/state.json: ' + e));
+</script>
+</body>
+</html>

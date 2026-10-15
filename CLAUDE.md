@@ -22,7 +22,7 @@ Docker Desktop must be running (`open -a Docker`). Gems are cached in the
 Project skills in `.claude/skills/` handle the workflow: `/new-post` (draft from rough
 notes, voice guide in `new-post/voice.md`), `/add-images` (resize + strip GPS via script),
 `/publish` (date, build, push to master), `/idea` (append to `IDEAS.md`), and
-`/check-post` (secrets/PII/tone scan). The repo is public: drafts are pushed (they never
+`/check-post` (secrets/PII/tone scan), and `/photo-review` (pick and place many photos across a series of posts). The repo is public: drafts are pushed (they never
 appear on the site), so check-post runs before every draft or post commit.
 
 
